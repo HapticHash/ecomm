@@ -22,7 +22,7 @@ function Header() {
             </Link>
 
             <div className="header__search">
-                <input type="text" className="header__searchInput"/>
+                <input type="text" placeholder="Search any product..." className="header__searchInput"/>
                 <SearchIcons className="header__searchIcon" />
             </div>
 
