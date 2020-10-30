@@ -7,6 +7,7 @@ import Home from './Home'
 import Login from './Login'
 import Checkout from './Checkout'
 import { auth } from './firebase';
+import ProductDetail from './ProductDetail';
 
 function App() {
 
@@ -44,6 +45,10 @@ function App() {
           <Route path="/checkout">
             <Header/>
             <Checkout/>
+          </Route>
+          <Route path="/productDetail">
+            <Header/>
+            <ProductDetail/>
           </Route>
           <Route path="/login">
             <Login />
