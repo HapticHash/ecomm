@@ -1,4 +1,4 @@
-import React ,{ useEffect } from 'react';
+import React ,{ useEffect } from 'react'
 import './App.css';
 import { useStateValue } from './StateProvider'
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
@@ -6,8 +6,10 @@ import Header from './Header'
 import Home from './Home'
 import Login from './Login'
 import Checkout from './Checkout'
-import { auth } from './firebase';
-import ProductDetail from './ProductDetail';
+import { auth } from './firebase'
+import Payment from './Payment'
+import ProductDetail from './ProductDetail'
+
 
 function App() {
 
@@ -52,6 +54,10 @@ function App() {
           </Route>
           <Route path="/login">
             <Login />
+          </Route>
+          <Route path="/payment">
+            <Header/>
+            <Payment/>
           </Route>
           <Route path="/">
             <Header/>
