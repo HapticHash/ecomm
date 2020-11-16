@@ -35,6 +35,8 @@ function Payment() {
         getClientSecret()
     }, [basket])
 
+    console.log('THE SECRET IS >>>>', clientSecret)
+
     const handleSubmit = async (event) => {
         event.preventDefault()
         setProcessing(true)
@@ -48,6 +50,10 @@ function Payment() {
             setError(null)
             setProcessing(false)
 
+            dispatch({
+                type: 'EMPTY_BASKET'
+            })
+            
             history.replace('/orders')
         })
     }
