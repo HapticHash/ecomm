@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name" : "prod1",
+        "title":"Samsung Galaxy S20 (SM-G980F/DS) Dual SIM 128GB, 6.2 inch Display, Factory Unlocked GSM, International Version - No ,Warranty-Cloud Blue",
+        "price": 855.00,
+        "rating": 4,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/71IX75joWjL._AC_SX522_.jpg"
+    },
+    {
+        "id":2,
+        "name" : "prod2",
+        "title":"USB C Hub 14in1 MacBook Pro Adapter 4K HDMI/VGA/ RJ45 Gigabit Ethernet/ 3.5mm Audio/ 100W PD/USB C Data Port/ 6 USB Ports/SD/TF Card Reader for MacBook/Pro/Air/ChromeBook/Samsung Galaxy and More",
+        "price": 56.99,
+        "rating": 4,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/61XSU6Mo2AL._AC_SX679_.jpg"
+    },
+    {
+        "id":3,
+        "name" : "prod3",
+        "title":"Samsung Galaxy Buds Live - Bronze, SM-R180NZNAXAC",
+        "price": 208.00,
+        "rating": 4,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/719Xfw823XL._AC_SX679_.jpg"
+    },
+    {
+        "id":4,
+        "name" : "prod4",
+        "title":"AmazonBasics 5 Cup Coffee Maker with Glass Carafe - Black",
+        "price":  28.99,
+        "rating": 4,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/81BwWF7hi%2BL._AC_SY879_.jpg"
+    },
+    {
+        "id":5,
+        "name" : "prod5",
+        "title":"Fullmosa Compatible Apple Watch Band 38mm 40mm 42mm 44mm, Yan Series Lichi Calf Leather Strap Band for iWatch SE &amp; Series 6 5 4 3 2 1",
+        "price": 29.99,
+        "rating": 3,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/71Xi2OUyD5L._AC_SX425_.jpg"
+    }
+]
