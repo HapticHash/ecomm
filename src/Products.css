@@ -12,7 +12,7 @@
     border-radius: 10px; 
     float: right;
     position: absolute; 
-    top: 8em;
+    top: 7em;
     right: 20px;
 }
 .products__info {
@@ -55,14 +55,29 @@
     transform: translateY(-2px);
 }
 
+.product-list{
+    margin-top: 2em;
+}
+
 .product-list > h2 {
     margin: 10px;
     text-align: center;
 }
 
 .productList {
-    margin: 10px 10px;
+    width: 28%;
+    margin-left: 20px;
+    display: flex;
     border-bottom: 1px solid #bdbdbd;
-    width: 25%;
+}
+
+.productList__left > img {
+    width: 3em;
+    margin: 25px 10px 25px 25px;
+}
+.productList__right {
+    float: right;
+    margin: 10px 10px;
+    width: 100%;
     padding: 10px 10px 12px 15px;
 }
