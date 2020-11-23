@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name" : "prod1",
-        "title":"Samsung Galaxy S20 (SM-G980F/DS) Dual SIM 128GB, 6.2 inch Display, Factory Unlocked GSM, International Version - No ,Warranty-Cloud Blue",
+        "title":"Samsung Galaxy S20 (SM-G980F/DS) Dual SIM 128GB, 6.2 inch Display, Factory Unlocked GSM, International Version",
         "price": 855.00,
         "rating": 4,
         "image":"https://images-na.ssl-images-amazon.com/images/I/71IX75joWjL._AC_SX522_.jpg"
@@ -34,7 +34,7 @@
     {
         "id":5,
         "name" : "prod5",
-        "title":"Fullmosa Compatible Apple Watch Band 38mm 40mm 42mm 44mm, Yan Series Lichi Calf Leather Strap Band for iWatch SE &amp; Series 6 5 4 3 2 1",
+        "title":"Fullmosa Compatible Apple Watch Band 38mm 40mm 42mm 44mm, Yan Series Lichi Calf Leather Strap Band for iWatch SE & Series 6 5 4 3 2 1",
         "price": 29.99,
         "rating": 3,
         "image":"https://images-na.ssl-images-amazon.com/images/I/71Xi2OUyD5L._AC_SX425_.jpg"

@@ -20,11 +20,11 @@ function ProductDetail({ id, title, price, rating, image, hideButton }) {
                     <strong>{price}</strong>
                 </p>
                 <div className="checkoutProduct__rating">
-                    {Array(rating)
+                    {/* {Array(rating)
                         .fill()
                         .map((_) => (
                             <p>⭐</p>
-                    ))}
+                    ))} */}
                 </div>
                 {!hideButton && (
                     <button >Remove from cart</button>
