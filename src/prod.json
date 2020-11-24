@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name" : "prod1",
+        "name" : "Samsung Galaxy S20 Dual Sim 128GB",
         "title":"Samsung Galaxy S20 (SM-G980F/DS) Dual SIM 128GB, 6.2 inch Display, Factory Unlocked GSM, International Version",
         "price": 855.00,
         "rating": 4,
@@ -9,7 +9,7 @@
     },
     {
         "id":2,
-        "name" : "prod2",
+        "name" : "USB C Hub 14 in 1",
         "title":"USB C Hub 14in1 MacBook Pro Adapter 4K HDMI/VGA/ RJ45 Gigabit Ethernet/ 3.5mm Audio/ 100W PD/USB C Data Port/ 6 USB Ports/SD/TF Card Reader for MacBook/Pro/Air/ChromeBook/Samsung Galaxy and More",
         "price": 56.99,
         "rating": 4,
@@ -17,7 +17,7 @@
     },
     {
         "id":3,
-        "name" : "prod3",
+        "name" : "Samsung Galaxy Buds Live",
         "title":"Samsung Galaxy Buds Live - Bronze, SM-R180NZNAXAC",
         "price": 208.00,
         "rating": 4,
@@ -25,7 +25,7 @@
     },
     {
         "id":4,
-        "name" : "prod4",
+        "name" : "AmazonBasics 5 Cup Coffee Maker",
         "title":"AmazonBasics 5 Cup Coffee Maker with Glass Carafe - Black",
         "price":  28.99,
         "rating": 4,
@@ -33,8 +33,8 @@
     },
     {
         "id":5,
-        "name" : "prod5",
-        "title":"Fullmosa Compatible Apple Watch Band 38mm 40mm 42mm 44mm, Yan Series Lichi Calf Leather Strap Band for iWatch SE & Series 6 5 4 3 2 1",
+        "name" : "Fullmosa Compatible Apple Watch Band",
+        "title":"Fullmosa Compatible Apple Watch Band 38mm 40mm 42mm 44mm for iWatch SE & Series 6 5 4 3 2 1",
         "price": 29.99,
         "rating": 3,
         "image":"https://images-na.ssl-images-amazon.com/images/I/71Xi2OUyD5L._AC_SX425_.jpg"

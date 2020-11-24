@@ -7,119 +7,37 @@ import list from './prod.json';
 
 function ProductList() {
 
-    // const productsMapped = list.map(product => <Link key={product.id} to={`/products/${product.id}`}>{product.name}</Link> )
-
     return (
         <div className='product-list'>
             <div className='product-links'>
-                {/* {productsMapped} */}
-                                
+
+                {list.map(item => (               
                 <div className="productList">
                     
                     <div className="productList__left">
-                        <img src={list[0].image} alt=""/>
+                        <img src={item.image} alt=""/>
                     </div>
 
                     <div className="productList__right">
-                        <Link key={list[0].id} to={`/products/${list[0].id}`}> Samsung S20 (SM-G980F/DS)  </Link>
-                        <p> <b> CAD $ {list[0].price} </b> </p>
+                        <Link key={item.id} to={`/products/${item.id}`}> {item.name}  </Link>
+                        <p> <b> CAD $ {item.price} </b> </p>
                         <p>
                             <div className="products__rating">
-                                {Array(list[0].rating)
+                                {Array(item.rating)
                                     .fill()
                                     .map((_) => (
                                         <p>⭐</p>
                                     ))}
                             </div>
                         </p>
+
+                        
                     </div>
 
                 </div>
+                ))}
 
-                <div className="productList">
-
-                    <div className="productList__left">
-                        <img src={list[1].image} alt=""/>
-                    </div>
-
-                    <div className="productList__right">
-                        <Link key={list[1].id} to={`/products/${list[1].id}`}> USB C Hub 14 in 1  </Link>
-                        <p> <b> CAD $ {list[1].price} </b> </p>
-                        <p>
-                            <div className="products__rating">
-                                {Array(list[1].rating)
-                                    .fill()
-                                    .map((_) => (
-                                        <p>⭐</p>
-                                    ))}
-                            </div>
-                        </p>
-                    </div>
                 </div>
-
-                <div className="productList">
-
-                    <div className="productList__left">
-                        <img src={list[2].image} alt=""/>
-                    </div>
-
-                    <div className="productList__right">
-                        <Link key={list[2].id} to={`/products/${list[2].id}`}> Samsung Galaxy Buds Live  </Link>
-                        <p> <b> CAD $ {list[2].price} </b> </p>
-                        <p>
-                            <div className="products__rating">
-                                {Array(list[2].rating)
-                                    .fill()
-                                    .map((_) => (
-                                        <p>⭐</p>
-                                    ))}
-                            </div>
-                        </p>
-                    </div>
-                </div>
-
-                <div className="productList">
-
-                    <div className="productList__left">
-                        <img src={list[3].image} alt=""/>
-                    </div>
-
-                    <div className="productList__right">
-                        <Link key={list[3].id} to={`/products/${list[3].id}`}> AmazonBasics 5 Cup Coffee Maker  </Link>
-                        <p> <b> CAD $ {list[3].price} </b> </p>
-                        <p>
-                            <div className="products__rating">
-                                {Array(list[3].rating)
-                                    .fill()
-                                    .map((_) => (
-                                        <p>⭐</p>
-                                    ))}
-                            </div>
-                        </p>
-                    </div>
-                </div>
-
-                <div className="productList">
-
-                    <div className="productList__left">
-                        <img src={list[4].image} alt=""/>
-                    </div>
-
-                    <div className="productList__right">
-                        <Link key={list[4].id} to={`/products/${list[4].id}`}> Fullmosa Compatible Apple Watch Band  </Link>
-                        <p> <b> CAD $ {list[4].price} </b> </p>
-                        <p>
-                            <div className="products__rating">
-                                {Array(list[4].rating)
-                                    .fill()
-                                    .map((_) => (
-                                        <p>⭐</p>
-                                    ))}
-                            </div>
-                        </p>
-                    </div>
-                </div>
-            </div>
         
             <Switch>
                 <Route path="/products/:id" component={Products} />

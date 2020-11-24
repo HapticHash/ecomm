@@ -1,13 +1,27 @@
 import React from 'react'
 import items from './prod.json';
 import './Products.css'
+import { useStateValue } from './StateProvider';
 
     const Products = (props) => {
         let {id} = props.match.params
         const product = items.find(product => product.id === id)
         
         let {name, title, price, image, rating} = items[id-1]
-   
+        const [{}, dispatch] = useStateValue()
+        const addToBasket = () => {
+            dispatch({
+                type: 'ADD_TO_BASKET',
+                item: {
+                    id: id,
+                    title: title,
+                    image: image,
+                    price: price,
+                    rating: rating
+                }
+            })
+        };
+
     return (
         <div className="products">
             <div className="products__info">
@@ -25,7 +39,7 @@ import './Products.css'
                 </div>
             </div>
             <img src={image} alt=""/>
-            {/* <button onClick={addToBasket}>Add to cart</button> */}
+            <button onClick={addToBasket}>Add to cart</button>
 
         </div>
         );
