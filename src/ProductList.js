@@ -30,8 +30,6 @@ function ProductList() {
                                     ))}
                             </div>
                         </p>
-
-                        
                     </div>
 
                 </div>

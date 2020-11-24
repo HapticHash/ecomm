@@ -2,10 +2,14 @@
     {
         "id": 1,
         "name" : "Samsung Galaxy S20 Dual Sim 128GB",
-        "title":"Samsung Galaxy S20 (SM-G980F/DS) Dual SIM 128GB, 6.2 inch Display, Factory Unlocked GSM, International Version",
+        "title":"Samsung Galaxy S20 (SM-G980F/DS) Dual SIM 128GB, Factory Unlocked GSM, International Version",
         "price": 855.00,
         "rating": 4,
-        "image":"https://images-na.ssl-images-amazon.com/images/I/71IX75joWjL._AC_SX522_.jpg"
+        "image":"https://images-na.ssl-images-amazon.com/images/I/71IX75joWjL._AC_SX522_.jpg",
+        "aboutItem1": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint",
+        "aboutItem2": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas",
+        "aboutItem3": "This device may not include a US warranty as some manufacturers do not honor warranties for international items",
+        "aboutItem4": "Device may come with foreign charger however seller will provide a US travel socket separately"
     },
     {
         "id":2,
