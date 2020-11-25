@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link, useHistory } from "react-router-dom"
 import items from './prod.json';
 import './Products.css'
 import { useStateValue } from './StateProvider';
@@ -22,7 +23,10 @@ import { useStateValue } from './StateProvider';
             })
         };
 
+
     return (
+
+        <
         <div className="products">
             <div className="scrollable">
                 <div className="products__info">
@@ -81,10 +85,19 @@ import { useStateValue } from './StateProvider';
                         </div>
                     </div>
                 </div>
+
+                  <div className="product_review">
+                    <p><strong>Review this product</strong></p>
+                    <p>Share your thoughts with other customers</p>
+                    <Link key={id} to={`/create-review/${id}`}>
+                        <button className="btn_review">Write a customer review</button>
+                    </Link>
+                </div>
+
             </div>
         </div>
-        );
-    };
+    );
+};
 
 
 export default Products
