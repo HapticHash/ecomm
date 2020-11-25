@@ -4,24 +4,25 @@ import items from './prod.json';
 import './Products.css'
 import { useStateValue } from './StateProvider';
 
-const Products = (props) => {
-    let { id } = props.match.params
-    const product = items.find(product => product.id === id)
+    const Products = (props) => {
+        let {id} = props.match.params
+        const product = items.find(product => product.id === id)
+        
+        let {name, title, price, image, rating, aboutItem1, aboutItem2, aboutItem3, aboutItem4, totalReviews, ReviewerName, ReviewerRating, ReviewTitle, postedDate, ReviewDesc} = items[id-1]
+        const [{}, dispatch] = useStateValue()
+        const addToBasket = () => {
+            dispatch({
+                type: 'ADD_TO_BASKET',
+                item: {
+                    id: id,
+                    title: title,
+                    image: image,
+                    price: price,
+                    rating: rating
+                }
+            })
+        };
 
-    let { name, title, price, image, rating, aboutItem1, aboutItem2, aboutItem3, aboutItem4 } = items[id - 1]
-    const [{}, dispatch] = useStateValue()
-    const addToBasket = () => {
-        dispatch({
-            type: 'ADD_TO_BASKET',
-            item: {
-                id: id,
-                title: title,
-                image: image,
-                price: price,
-                rating: rating
-            }
-        })
-    };
 
     return (
 
@@ -41,6 +42,7 @@ const Products = (props) => {
                                 <p>⭐</p>
                             ))}
                     </div>
+                    <p> Total Review : {totalReviews}</p>
                 </div>
                 <img src={image} alt=""/>
                 <div className="button__cart">
@@ -55,6 +57,33 @@ const Products = (props) => {
                         <li>{aboutItem4}</li>
                         
                     </ul>
+                    <br/>
+                    <p> <b> Customer Reviews </b></p>
+                    
+                    <div className="product__review">
+                        <div className="product__review__intro">
+                            <div className="reviewer__top">
+                                <div className="reviewer__image">
+                                    <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-status/256/avatar-default-icon.png"/>
+                                </div>
+                                <div className="reviewer__name">
+                                    {ReviewerName}
+                                </div>
+                            </div>
+                            <div className="reviewer__rating">
+                                {Array(ReviewerRating)
+                                .fill()
+                                .map((_) => (
+                                    <p>⭐</p>
+                                ))}
+                                <span className="review__title"> {ReviewTitle} </span>
+                            </div>
+                            <div className="review__posted"> Reviewed on {postedDate}</div>
+                        </div>
+                        <div className="product__review__desc">
+                            {ReviewDesc}
+                        </div>
+                    </div>
                 </div>
 
                   <div className="product_review">
