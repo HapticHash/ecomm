@@ -7,6 +7,7 @@ import Home from './Home'
 import Orders from './Orders'
 import Login from './Login'
 import Checkout from './Checkout'
+import NewReview from './NewReview'
 import { auth } from './firebase'
 import Payment from './Payment'
 import ProductDetail from './ProductDetail'
@@ -52,6 +53,10 @@ function App() {
     <Router>
       <div className="App">
         <Switch>
+          <Route path="/create-review">
+            <Header/>
+            <NewReview/>
+          </Route>
           <Route path="/checkout">
             <Header/>
             <Checkout/>

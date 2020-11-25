@@ -21,13 +21,13 @@ function Login() {
 
     const register = e => {
         e.preventDefault()
-        
+
         auth.createUserWithEmailAndPassword(email, password)
-        .then((auth) => {
-            history.push('/')
-        
-        })
-        .catch((e) => alert(e.message))
+            .then((auth) => {
+                history.push('/')
+
+            })
+            .catch((e) => alert(e.message))
     }
 
     return (

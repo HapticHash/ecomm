@@ -1,0 +1,40 @@
+.review {
+    background-color: #fff;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 0 0 0;
+}
+
+.review__container {
+    display: flex;
+    flex-direction: column;
+}
+
+.review__container>h1 {
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.review__container>form>input {
+    height: 30px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    width: 95%;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+.review__container>form>textarea {
+    margin-bottom: 10px;
+    background-color: #fff;
+    width: 95%;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+.review__container>p {
+    margin-top: 15px;
+    font-size: 12px;
+}
