@@ -12,23 +12,181 @@
         "aboutItem3": "This device may not include a US warranty as some manufacturers do not honor warranties for international items",
         "aboutItem4": "Device may come with foreign charger however seller will provide a US travel socket separately",
         
-        "ReviewerName": "Stew Ray",
-        "ReviewerRating": 4,
-        "ReviewTitle": "Most Unreal Phone ive ever had!",
-        "postedDate": "September 22, 2020",
-        "ReviewDesc": "This phone is not a phone its a computer in yer pocket. its so great! I am not a phone guy, and bought because my daughter, and friends, co workers, etc said its hard impossible to get a hold of me. My old phone was so slow. This has it all, definate buy. I even checked a youtube video on side by side comparison of Xynos and Snapdragon phone and they are basically the same. I keep finding new features with this thing. The super fast charging is epic. I dont know where to start, but this is a definite MUST BUY if you need a phone. I hope there is some left."
+        "Reviews": [
+            {
+                "ReviewerName": "Stew Ray",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Most Unreal Phone ive ever had!",
+                "postedDate": "September 22, 2020",
+                "ReviewDesc": "This phone is not a phone its a computer in yer pocket. its so great! I am not a phone guy, and bought because my daughter, and friends, co workers, etc said its hard impossible to get a hold of me. My old phone was so slow. This has it all, definate buy. I even checked a youtube video on side by side comparison of Xynos and Snapdragon phone and they are basically the same. I keep finding new features with this thing. The super fast charging is epic. I dont know where to start, but this is a definite MUST BUY if you need a phone. I hope there is some left."
+            },
+
+            {
+                "ReviewerName": "Keifer W.",
+                "ReviewerRating": 2,
+                "ReviewTitle": "Didn't work",
+                "postedDate": "September 5, 2020",
+                "ReviewDesc": "It loaded up, took all my info from google, and then turned off and never turned back on. Tried everything, left it on the charger for a couple hours, it doesn’t charge. Tried hard reset, nothing. Junk, don’t buy!"
+            },
+
+            {
+                "ReviewerName": "Victor Reyes",
+                "ReviewerRating": 5,
+                "ReviewTitle": "High end at a good price! The best Android on the market",
+                "postedDate": "August 28, 2020",
+                "ReviewDesc": "Excellent cell phone, it has everything and at a very good price on Amazon, arrived earlier than established."
+            },
+
+            {
+                "ReviewerName": "Kassandra Wood",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Love this phone",
+                "postedDate": "August 20, 2020",
+                "ReviewDesc": "I LOVE this phone ❤ battery life awesome, pictures turn out great, and its so pretty lol. I am so happy with this phone, definitely worth the money."
+            },
+
+            {
+                "ReviewerName": "Khalil",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Exynos chipset (know what you are buying)",
+                "postedDate": "August 10, 2020",
+                "ReviewDesc": "Careful before you purchase this, this model is the exynos chipset model that's why it's a tiny bit cheaper than usual. Just a heads up any who see's this knows what they are paying for."
+            },
+
+            {
+                "ReviewerName": "Mark A. Farley",
+                "ReviewerRating": 5,
+                "ReviewTitle": "This phone is easy to use",
+                "postedDate": "August 8, 2020",
+                "ReviewDesc": "My wife she loves this phone."
+            },
+
+            {
+                "ReviewerName": "Chris P.",
+                "ReviewerRating": 3,
+                "ReviewTitle": "Expensive but practical",
+                "postedDate": "August 5, 2020",
+                "ReviewDesc": "It's expensive and not a blackberry but I really had no choice since there isn't a new blackberry out there. I'm worried about security on this device. So far it is decent but I was expecting more for my $."
+            },
+
+            {
+                "ReviewerName": "obed",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Excellent product-price ratio",
+                "postedDate": "August 2, 2020",
+                "ReviewDesc": "Good product, I got it fast and in good condition, the cell phone works very well, only the battery does not last all day in normal use but I think that's all galaxy. The seller is very attentive."
+            },
+
+            {
+                "ReviewerName": "Jot Chahal",
+                "ReviewerRating": 1,
+                "ReviewTitle": "Slow phone",
+                "postedDate": "July 29, 2020",
+                "ReviewDesc": "Seems like this phone went backwards in updates. Operates slowly. The camera is the worst i have ever had. My s8 and the a5 have great cameras. With 20 you need to retake photos constantly. Very often you miss your shot because of this. Photos are blurry and garbage. Like the selfie camera is amazing you can see every pore. But actual camera is useless. Dont even use it for road trips or anything really. I regret choosing this . God awful."
+            },
+
+            {
+                "ReviewerName": "Kenny",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Good cell phone but with a peculiar theme",
+                "postedDate": "July 18, 2020",
+                "ReviewDesc": "It is an amazing cell phone, it shows the quality of screen, photography and is good size for one-handed operation. The reason I put it 4 stars is because its charger does not do its function. I tried to use it as soon as I opened the package and it didn't work. The strange thing is that this new charger if it charges my S10 and it is also strange because other old chargers and the same charger of the s10 manage to charge the S20."
+            }
+        ]
     },
     {
         "id":2,
         "name" : "USB C Hub 14 in 1",
         "title":"USB C Hub 14in1 MacBook Pro Adapter 4K HDMI/VGA/ RJ45 Gigabit Ethernet/ 3.5mm Audio/ 100W PD/USB C Data Port/ 6 USB Ports/SD/TF Card Reader for MacBook/Pro/Air/ChromeBook/Samsung Galaxy and More",
         "price": 56.99,
-        "rating": 4,
+        "rating": 3,
         "image":"https://images-na.ssl-images-amazon.com/images/I/61XSU6Mo2AL._AC_SX679_.jpg",
          "aboutItem1": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint",
         "aboutItem2": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas",
         "aboutItem3": "This device may not include a US warranty as some manufacturers do not honor warranties for international items",
-        "aboutItem4": "Device may come with foreign charger however seller will provide a US travel socket separately"
+        "aboutItem4": "Device may come with foreign charger however seller will provide a US travel socket separately",
+
+        "Reviews": [
+            {
+                "ReviewerName": "Stew Ray",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Most Unreal Phone ive ever had!",
+                "postedDate": "September 22, 2020",
+                "ReviewDesc": "This phone is not a phone its a computer in yer pocket. its so great! I am not a phone guy, and bought because my daughter, and friends, co workers, etc said its hard impossible to get a hold of me. My old phone was so slow. This has it all, definate buy. I even checked a youtube video on side by side comparison of Xynos and Snapdragon phone and they are basically the same. I keep finding new features with this thing. The super fast charging is epic. I dont know where to start, but this is a definite MUST BUY if you need a phone. I hope there is some left."
+            },
+
+            {
+                "ReviewerName": "Keifer W.",
+                "ReviewerRating": 2,
+                "ReviewTitle": "Didn't work",
+                "postedDate": "September 5, 2020",
+                "ReviewDesc": "It loaded up, took all my info from google, and then turned off and never turned back on. Tried everything, left it on the charger for a couple hours, it doesn’t charge. Tried hard reset, nothing. Junk, don’t buy!"
+            },
+
+            {
+                "ReviewerName": "Victor Reyes",
+                "ReviewerRating": 5,
+                "ReviewTitle": "High end at a good price! The best Android on the market",
+                "postedDate": "August 28, 2020",
+                "ReviewDesc": "Excellent cell phone, it has everything and at a very good price on Amazon, arrived earlier than established."
+            },
+
+            {
+                "ReviewerName": "Kassandra Wood",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Love this phone",
+                "postedDate": "August 20, 2020",
+                "ReviewDesc": "I LOVE this phone ❤ battery life awesome, pictures turn out great, and its so pretty lol. I am so happy with this phone, definitely worth the money."
+            },
+
+            {
+                "ReviewerName": "Khalil",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Exynos chipset (know what you are buying)",
+                "postedDate": "August 10, 2020",
+                "ReviewDesc": "Careful before you purchase this, this model is the exynos chipset model that's why it's a tiny bit cheaper than usual. Just a heads up any who see's this knows what they are paying for."
+            },
+
+            {
+                "ReviewerName": "Mark A. Farley",
+                "ReviewerRating": 5,
+                "ReviewTitle": "This phone is easy to use",
+                "postedDate": "August 8, 2020",
+                "ReviewDesc": "My wife she loves this phone."
+            },
+
+            {
+                "ReviewerName": "Chris P.",
+                "ReviewerRating": 3,
+                "ReviewTitle": "Expensive but practical",
+                "postedDate": "August 5, 2020",
+                "ReviewDesc": "It's expensive and not a blackberry but I really had no choice since there isn't a new blackberry out there. I'm worried about security on this device. So far it is decent but I was expecting more for my $."
+            },
+
+            {
+                "ReviewerName": "obed",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Excellent product-price ratio",
+                "postedDate": "August 2, 2020",
+                "ReviewDesc": "Good product, I got it fast and in good condition, the cell phone works very well, only the battery does not last all day in normal use but I think that's all galaxy. The seller is very attentive."
+            },
+
+            {
+                "ReviewerName": "Jot Chahal",
+                "ReviewerRating": 1,
+                "ReviewTitle": "Slow phone",
+                "postedDate": "July 29, 2020",
+                "ReviewDesc": "Seems like this phone went backwards in updates. Operates slowly. The camera is the worst i have ever had. My s8 and the a5 have great cameras. With 20 you need to retake photos constantly. Very often you miss your shot because of this. Photos are blurry and garbage. Like the selfie camera is amazing you can see every pore. But actual camera is useless. Dont even use it for road trips or anything really. I regret choosing this . God awful."
+            },
+
+            {
+                "ReviewerName": "Kenny",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Good cell phone but with a peculiar theme",
+                "postedDate": "July 18, 2020",
+                "ReviewDesc": "It is an amazing cell phone, it shows the quality of screen, photography and is good size for one-handed operation. The reason I put it 4 stars is because its charger does not do its function. I tried to use it as soon as I opened the package and it didn't work. The strange thing is that this new charger if it charges my S10 and it is also strange because other old chargers and the same charger of the s10 manage to charge the S20."
+            }
+        ]
     },
     {
         "id":3,
@@ -36,7 +194,92 @@
         "title":"Samsung Galaxy Buds Live - Bronze, SM-R180NZNAXAC",
         "price": 208.00,
         "rating": 4,
-        "image":"https://images-na.ssl-images-amazon.com/images/I/719Xfw823XL._AC_SX679_.jpg"
+        "image":"https://images-na.ssl-images-amazon.com/images/I/719Xfw823XL._AC_SX679_.jpg",
+        "aboutItem1": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint",
+        "aboutItem2": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas",
+        "aboutItem3": "This device may not include a US warranty as some manufacturers do not honor warranties for international items",
+        "aboutItem4": "Device may come with foreign charger however seller will provide a US travel socket separately",
+        
+        "Reviews": [
+            {
+                "ReviewerName": "Stew Ray",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Most Unreal Phone ive ever had!",
+                "postedDate": "September 22, 2020",
+                "ReviewDesc": "This phone is not a phone its a computer in yer pocket. its so great! I am not a phone guy, and bought because my daughter, and friends, co workers, etc said its hard impossible to get a hold of me. My old phone was so slow. This has it all, definate buy. I even checked a youtube video on side by side comparison of Xynos and Snapdragon phone and they are basically the same. I keep finding new features with this thing. The super fast charging is epic. I dont know where to start, but this is a definite MUST BUY if you need a phone. I hope there is some left."
+            },
+
+            {
+                "ReviewerName": "Keifer W.",
+                "ReviewerRating": 2,
+                "ReviewTitle": "Didn't work",
+                "postedDate": "September 5, 2020",
+                "ReviewDesc": "It loaded up, took all my info from google, and then turned off and never turned back on. Tried everything, left it on the charger for a couple hours, it doesn’t charge. Tried hard reset, nothing. Junk, don’t buy!"
+            },
+
+            {
+                "ReviewerName": "Victor Reyes",
+                "ReviewerRating": 5,
+                "ReviewTitle": "High end at a good price! The best Android on the market",
+                "postedDate": "August 28, 2020",
+                "ReviewDesc": "Excellent cell phone, it has everything and at a very good price on Amazon, arrived earlier than established."
+            },
+
+            {
+                "ReviewerName": "Kassandra Wood",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Love this phone",
+                "postedDate": "August 20, 2020",
+                "ReviewDesc": "I LOVE this phone ❤ battery life awesome, pictures turn out great, and its so pretty lol. I am so happy with this phone, definitely worth the money."
+            },
+
+            {
+                "ReviewerName": "Khalil",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Exynos chipset (know what you are buying)",
+                "postedDate": "August 10, 2020",
+                "ReviewDesc": "Careful before you purchase this, this model is the exynos chipset model that's why it's a tiny bit cheaper than usual. Just a heads up any who see's this knows what they are paying for."
+            },
+
+            {
+                "ReviewerName": "Mark A. Farley",
+                "ReviewerRating": 5,
+                "ReviewTitle": "This phone is easy to use",
+                "postedDate": "August 8, 2020",
+                "ReviewDesc": "My wife she loves this phone."
+            },
+
+            {
+                "ReviewerName": "Chris P.",
+                "ReviewerRating": 3,
+                "ReviewTitle": "Expensive but practical",
+                "postedDate": "August 5, 2020",
+                "ReviewDesc": "It's expensive and not a blackberry but I really had no choice since there isn't a new blackberry out there. I'm worried about security on this device. So far it is decent but I was expecting more for my $."
+            },
+
+            {
+                "ReviewerName": "obed",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Excellent product-price ratio",
+                "postedDate": "August 2, 2020",
+                "ReviewDesc": "Good product, I got it fast and in good condition, the cell phone works very well, only the battery does not last all day in normal use but I think that's all galaxy. The seller is very attentive."
+            },
+
+            {
+                "ReviewerName": "Jot Chahal",
+                "ReviewerRating": 1,
+                "ReviewTitle": "Slow phone",
+                "postedDate": "July 29, 2020",
+                "ReviewDesc": "Seems like this phone went backwards in updates. Operates slowly. The camera is the worst i have ever had. My s8 and the a5 have great cameras. With 20 you need to retake photos constantly. Very often you miss your shot because of this. Photos are blurry and garbage. Like the selfie camera is amazing you can see every pore. But actual camera is useless. Dont even use it for road trips or anything really. I regret choosing this . God awful."
+            },
+
+            {
+                "ReviewerName": "Kenny",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Good cell phone but with a peculiar theme",
+                "postedDate": "July 18, 2020",
+                "ReviewDesc": "It is an amazing cell phone, it shows the quality of screen, photography and is good size for one-handed operation. The reason I put it 4 stars is because its charger does not do its function. I tried to use it as soon as I opened the package and it didn't work. The strange thing is that this new charger if it charges my S10 and it is also strange because other old chargers and the same charger of the s10 manage to charge the S20."
+            }]
     },
     {
         "id":4,
@@ -44,7 +287,92 @@
         "title":"AmazonBasics 5 Cup Coffee Maker with Glass Carafe - Black",
         "price":  28.99,
         "rating": 4,
-        "image":"https://images-na.ssl-images-amazon.com/images/I/81BwWF7hi%2BL._AC_SY879_.jpg"
+        "image":"https://images-na.ssl-images-amazon.com/images/I/81BwWF7hi%2BL._AC_SY879_.jpg",
+        "aboutItem1": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint",
+        "aboutItem2": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas",
+        "aboutItem3": "This device may not include a US warranty as some manufacturers do not honor warranties for international items",
+        "aboutItem4": "Device may come with foreign charger however seller will provide a US travel socket separately",
+        
+        "Reviews": [
+            {
+                "ReviewerName": "Stew Ray",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Most Unreal Phone ive ever had!",
+                "postedDate": "September 22, 2020",
+                "ReviewDesc": "This phone is not a phone its a computer in yer pocket. its so great! I am not a phone guy, and bought because my daughter, and friends, co workers, etc said its hard impossible to get a hold of me. My old phone was so slow. This has it all, definate buy. I even checked a youtube video on side by side comparison of Xynos and Snapdragon phone and they are basically the same. I keep finding new features with this thing. The super fast charging is epic. I dont know where to start, but this is a definite MUST BUY if you need a phone. I hope there is some left."
+            },
+
+            {
+                "ReviewerName": "Keifer W.",
+                "ReviewerRating": 2,
+                "ReviewTitle": "Didn't work",
+                "postedDate": "September 5, 2020",
+                "ReviewDesc": "It loaded up, took all my info from google, and then turned off and never turned back on. Tried everything, left it on the charger for a couple hours, it doesn’t charge. Tried hard reset, nothing. Junk, don’t buy!"
+            },
+
+            {
+                "ReviewerName": "Victor Reyes",
+                "ReviewerRating": 5,
+                "ReviewTitle": "High end at a good price! The best Android on the market",
+                "postedDate": "August 28, 2020",
+                "ReviewDesc": "Excellent cell phone, it has everything and at a very good price on Amazon, arrived earlier than established."
+            },
+
+            {
+                "ReviewerName": "Kassandra Wood",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Love this phone",
+                "postedDate": "August 20, 2020",
+                "ReviewDesc": "I LOVE this phone ❤ battery life awesome, pictures turn out great, and its so pretty lol. I am so happy with this phone, definitely worth the money."
+            },
+
+            {
+                "ReviewerName": "Khalil",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Exynos chipset (know what you are buying)",
+                "postedDate": "August 10, 2020",
+                "ReviewDesc": "Careful before you purchase this, this model is the exynos chipset model that's why it's a tiny bit cheaper than usual. Just a heads up any who see's this knows what they are paying for."
+            },
+
+            {
+                "ReviewerName": "Mark A. Farley",
+                "ReviewerRating": 5,
+                "ReviewTitle": "This phone is easy to use",
+                "postedDate": "August 8, 2020",
+                "ReviewDesc": "My wife she loves this phone."
+            },
+
+            {
+                "ReviewerName": "Chris P.",
+                "ReviewerRating": 3,
+                "ReviewTitle": "Expensive but practical",
+                "postedDate": "August 5, 2020",
+                "ReviewDesc": "It's expensive and not a blackberry but I really had no choice since there isn't a new blackberry out there. I'm worried about security on this device. So far it is decent but I was expecting more for my $."
+            },
+
+            {
+                "ReviewerName": "obed",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Excellent product-price ratio",
+                "postedDate": "August 2, 2020",
+                "ReviewDesc": "Good product, I got it fast and in good condition, the cell phone works very well, only the battery does not last all day in normal use but I think that's all galaxy. The seller is very attentive."
+            },
+
+            {
+                "ReviewerName": "Jot Chahal",
+                "ReviewerRating": 1,
+                "ReviewTitle": "Slow phone",
+                "postedDate": "July 29, 2020",
+                "ReviewDesc": "Seems like this phone went backwards in updates. Operates slowly. The camera is the worst i have ever had. My s8 and the a5 have great cameras. With 20 you need to retake photos constantly. Very often you miss your shot because of this. Photos are blurry and garbage. Like the selfie camera is amazing you can see every pore. But actual camera is useless. Dont even use it for road trips or anything really. I regret choosing this . God awful."
+            },
+
+            {
+                "ReviewerName": "Kenny",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Good cell phone but with a peculiar theme",
+                "postedDate": "July 18, 2020",
+                "ReviewDesc": "It is an amazing cell phone, it shows the quality of screen, photography and is good size for one-handed operation. The reason I put it 4 stars is because its charger does not do its function. I tried to use it as soon as I opened the package and it didn't work. The strange thing is that this new charger if it charges my S10 and it is also strange because other old chargers and the same charger of the s10 manage to charge the S20."
+            }]
     },
     {
         "id":5,
@@ -52,23 +380,269 @@
         "title":"Fullmosa Compatible Apple Watch Band 38mm 40mm 42mm 44mm for iWatch SE & Series 6 5 4 3 2 1",
         "price": 29.99,
         "rating": 3,
-        "image":"https://images-na.ssl-images-amazon.com/images/I/71Xi2OUyD5L._AC_SX425_.jpg"
+        "image":"https://images-na.ssl-images-amazon.com/images/I/71Xi2OUyD5L._AC_SX425_.jpg",
+
+        "Reviews": [
+            {
+                "ReviewerName": "Stew Ray",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Most Unreal Phone ive ever had!",
+                "postedDate": "September 22, 2020",
+                "ReviewDesc": "This phone is not a phone its a computer in yer pocket. its so great! I am not a phone guy, and bought because my daughter, and friends, co workers, etc said its hard impossible to get a hold of me. My old phone was so slow. This has it all, definate buy. I even checked a youtube video on side by side comparison of Xynos and Snapdragon phone and they are basically the same. I keep finding new features with this thing. The super fast charging is epic. I dont know where to start, but this is a definite MUST BUY if you need a phone. I hope there is some left."
+            },
+
+            {
+                "ReviewerName": "Keifer W.",
+                "ReviewerRating": 2,
+                "ReviewTitle": "Didn't work",
+                "postedDate": "September 5, 2020",
+                "ReviewDesc": "It loaded up, took all my info from google, and then turned off and never turned back on. Tried everything, left it on the charger for a couple hours, it doesn’t charge. Tried hard reset, nothing. Junk, don’t buy!"
+            },
+
+            {
+                "ReviewerName": "Victor Reyes",
+                "ReviewerRating": 5,
+                "ReviewTitle": "High end at a good price! The best Android on the market",
+                "postedDate": "August 28, 2020",
+                "ReviewDesc": "Excellent cell phone, it has everything and at a very good price on Amazon, arrived earlier than established."
+            },
+
+            {
+                "ReviewerName": "Kassandra Wood",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Love this phone",
+                "postedDate": "August 20, 2020",
+                "ReviewDesc": "I LOVE this phone ❤ battery life awesome, pictures turn out great, and its so pretty lol. I am so happy with this phone, definitely worth the money."
+            },
+
+            {
+                "ReviewerName": "Khalil",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Exynos chipset (know what you are buying)",
+                "postedDate": "August 10, 2020",
+                "ReviewDesc": "Careful before you purchase this, this model is the exynos chipset model that's why it's a tiny bit cheaper than usual. Just a heads up any who see's this knows what they are paying for."
+            },
+
+            {
+                "ReviewerName": "Mark A. Farley",
+                "ReviewerRating": 5,
+                "ReviewTitle": "This phone is easy to use",
+                "postedDate": "August 8, 2020",
+                "ReviewDesc": "My wife she loves this phone."
+            },
+
+            {
+                "ReviewerName": "Chris P.",
+                "ReviewerRating": 3,
+                "ReviewTitle": "Expensive but practical",
+                "postedDate": "August 5, 2020",
+                "ReviewDesc": "It's expensive and not a blackberry but I really had no choice since there isn't a new blackberry out there. I'm worried about security on this device. So far it is decent but I was expecting more for my $."
+            },
+
+            {
+                "ReviewerName": "obed",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Excellent product-price ratio",
+                "postedDate": "August 2, 2020",
+                "ReviewDesc": "Good product, I got it fast and in good condition, the cell phone works very well, only the battery does not last all day in normal use but I think that's all galaxy. The seller is very attentive."
+            },
+
+            {
+                "ReviewerName": "Jot Chahal",
+                "ReviewerRating": 1,
+                "ReviewTitle": "Slow phone",
+                "postedDate": "July 29, 2020",
+                "ReviewDesc": "Seems like this phone went backwards in updates. Operates slowly. The camera is the worst i have ever had. My s8 and the a5 have great cameras. With 20 you need to retake photos constantly. Very often you miss your shot because of this. Photos are blurry and garbage. Like the selfie camera is amazing you can see every pore. But actual camera is useless. Dont even use it for road trips or anything really. I regret choosing this . God awful."
+            },
+
+            {
+                "ReviewerName": "Kenny",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Good cell phone but with a peculiar theme",
+                "postedDate": "July 18, 2020",
+                "ReviewDesc": "It is an amazing cell phone, it shows the quality of screen, photography and is good size for one-handed operation. The reason I put it 4 stars is because its charger does not do its function. I tried to use it as soon as I opened the package and it didn't work. The strange thing is that this new charger if it charges my S10 and it is also strange because other old chargers and the same charger of the s10 manage to charge the S20."
+            }
+        ]
     },
     {
         "id":6,
         "name" : "Smart speaker with Alexa",
         "title":"All-new Echo Dot (4th Gen) | Smart speaker with Alexa | Charcoal",
         "price": 39.99,
-        "rating": 8,
-        "image":"https://images-na.ssl-images-amazon.com/images/I/71KJ6VCJlOL._AC_SL1000_.jpg"
+        "rating": 4,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/71KJ6VCJlOL._AC_SL1000_.jpg",
+
+        "Reviews": [
+            {
+                "ReviewerName": "Stew Ray",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Most Unreal Phone ive ever had!",
+                "postedDate": "September 22, 2020",
+                "ReviewDesc": "This phone is not a phone its a computer in yer pocket. its so great! I am not a phone guy, and bought because my daughter, and friends, co workers, etc said its hard impossible to get a hold of me. My old phone was so slow. This has it all, definate buy. I even checked a youtube video on side by side comparison of Xynos and Snapdragon phone and they are basically the same. I keep finding new features with this thing. The super fast charging is epic. I dont know where to start, but this is a definite MUST BUY if you need a phone. I hope there is some left."
+            },
+
+            {
+                "ReviewerName": "Keifer W.",
+                "ReviewerRating": 2,
+                "ReviewTitle": "Didn't work",
+                "postedDate": "September 5, 2020",
+                "ReviewDesc": "It loaded up, took all my info from google, and then turned off and never turned back on. Tried everything, left it on the charger for a couple hours, it doesn’t charge. Tried hard reset, nothing. Junk, don’t buy!"
+            },
+
+            {
+                "ReviewerName": "Victor Reyes",
+                "ReviewerRating": 5,
+                "ReviewTitle": "High end at a good price! The best Android on the market",
+                "postedDate": "August 28, 2020",
+                "ReviewDesc": "Excellent cell phone, it has everything and at a very good price on Amazon, arrived earlier than established."
+            },
+
+            {
+                "ReviewerName": "Kassandra Wood",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Love this phone",
+                "postedDate": "August 20, 2020",
+                "ReviewDesc": "I LOVE this phone ❤ battery life awesome, pictures turn out great, and its so pretty lol. I am so happy with this phone, definitely worth the money."
+            },
+
+            {
+                "ReviewerName": "Khalil",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Exynos chipset (know what you are buying)",
+                "postedDate": "August 10, 2020",
+                "ReviewDesc": "Careful before you purchase this, this model is the exynos chipset model that's why it's a tiny bit cheaper than usual. Just a heads up any who see's this knows what they are paying for."
+            },
+
+            {
+                "ReviewerName": "Mark A. Farley",
+                "ReviewerRating": 5,
+                "ReviewTitle": "This phone is easy to use",
+                "postedDate": "August 8, 2020",
+                "ReviewDesc": "My wife she loves this phone."
+            },
+
+            {
+                "ReviewerName": "Chris P.",
+                "ReviewerRating": 3,
+                "ReviewTitle": "Expensive but practical",
+                "postedDate": "August 5, 2020",
+                "ReviewDesc": "It's expensive and not a blackberry but I really had no choice since there isn't a new blackberry out there. I'm worried about security on this device. So far it is decent but I was expecting more for my $."
+            },
+
+            {
+                "ReviewerName": "obed",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Excellent product-price ratio",
+                "postedDate": "August 2, 2020",
+                "ReviewDesc": "Good product, I got it fast and in good condition, the cell phone works very well, only the battery does not last all day in normal use but I think that's all galaxy. The seller is very attentive."
+            },
+
+            {
+                "ReviewerName": "Jot Chahal",
+                "ReviewerRating": 1,
+                "ReviewTitle": "Slow phone",
+                "postedDate": "July 29, 2020",
+                "ReviewDesc": "Seems like this phone went backwards in updates. Operates slowly. The camera is the worst i have ever had. My s8 and the a5 have great cameras. With 20 you need to retake photos constantly. Very often you miss your shot because of this. Photos are blurry and garbage. Like the selfie camera is amazing you can see every pore. But actual camera is useless. Dont even use it for road trips or anything really. I regret choosing this . God awful."
+            },
+
+            {
+                "ReviewerName": "Kenny",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Good cell phone but with a peculiar theme",
+                "postedDate": "July 18, 2020",
+                "ReviewDesc": "It is an amazing cell phone, it shows the quality of screen, photography and is good size for one-handed operation. The reason I put it 4 stars is because its charger does not do its function. I tried to use it as soon as I opened the package and it didn't work. The strange thing is that this new charger if it charges my S10 and it is also strange because other old chargers and the same charger of the s10 manage to charge the S20."
+            }
+        ]
     },
     {
         "id":7,
         "name" : "Amazon Smart Plug",
         "title":"Amazon Smart Plug, works with Alexa",
         "price": 34.99,
-        "rating": 6,
-        "image":"https://images-na.ssl-images-amazon.com/images/I/51yy4dHf5VL._AC_SL1000_.jpg"
+        "rating": 5,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/51yy4dHf5VL._AC_SL1000_.jpg",
+
+        "Reviews": [
+            {
+                "ReviewerName": "Stew Ray",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Most Unreal Phone ive ever had!",
+                "postedDate": "September 22, 2020",
+                "ReviewDesc": "This phone is not a phone its a computer in yer pocket. its so great! I am not a phone guy, and bought because my daughter, and friends, co workers, etc said its hard impossible to get a hold of me. My old phone was so slow. This has it all, definate buy. I even checked a youtube video on side by side comparison of Xynos and Snapdragon phone and they are basically the same. I keep finding new features with this thing. The super fast charging is epic. I dont know where to start, but this is a definite MUST BUY if you need a phone. I hope there is some left."
+            },
+
+            {
+                "ReviewerName": "Keifer W.",
+                "ReviewerRating": 2,
+                "ReviewTitle": "Didn't work",
+                "postedDate": "September 5, 2020",
+                "ReviewDesc": "It loaded up, took all my info from google, and then turned off and never turned back on. Tried everything, left it on the charger for a couple hours, it doesn’t charge. Tried hard reset, nothing. Junk, don’t buy!"
+            },
+
+            {
+                "ReviewerName": "Victor Reyes",
+                "ReviewerRating": 5,
+                "ReviewTitle": "High end at a good price! The best Android on the market",
+                "postedDate": "August 28, 2020",
+                "ReviewDesc": "Excellent cell phone, it has everything and at a very good price on Amazon, arrived earlier than established."
+            },
+
+            {
+                "ReviewerName": "Kassandra Wood",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Love this phone",
+                "postedDate": "August 20, 2020",
+                "ReviewDesc": "I LOVE this phone ❤ battery life awesome, pictures turn out great, and its so pretty lol. I am so happy with this phone, definitely worth the money."
+            },
+
+            {
+                "ReviewerName": "Khalil",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Exynos chipset (know what you are buying)",
+                "postedDate": "August 10, 2020",
+                "ReviewDesc": "Careful before you purchase this, this model is the exynos chipset model that's why it's a tiny bit cheaper than usual. Just a heads up any who see's this knows what they are paying for."
+            },
+
+            {
+                "ReviewerName": "Mark A. Farley",
+                "ReviewerRating": 5,
+                "ReviewTitle": "This phone is easy to use",
+                "postedDate": "August 8, 2020",
+                "ReviewDesc": "My wife she loves this phone."
+            },
+
+            {
+                "ReviewerName": "Chris P.",
+                "ReviewerRating": 3,
+                "ReviewTitle": "Expensive but practical",
+                "postedDate": "August 5, 2020",
+                "ReviewDesc": "It's expensive and not a blackberry but I really had no choice since there isn't a new blackberry out there. I'm worried about security on this device. So far it is decent but I was expecting more for my $."
+            },
+
+            {
+                "ReviewerName": "obed",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Excellent product-price ratio",
+                "postedDate": "August 2, 2020",
+                "ReviewDesc": "Good product, I got it fast and in good condition, the cell phone works very well, only the battery does not last all day in normal use but I think that's all galaxy. The seller is very attentive."
+            },
+
+            {
+                "ReviewerName": "Jot Chahal",
+                "ReviewerRating": 1,
+                "ReviewTitle": "Slow phone",
+                "postedDate": "July 29, 2020",
+                "ReviewDesc": "Seems like this phone went backwards in updates. Operates slowly. The camera is the worst i have ever had. My s8 and the a5 have great cameras. With 20 you need to retake photos constantly. Very often you miss your shot because of this. Photos are blurry and garbage. Like the selfie camera is amazing you can see every pore. But actual camera is useless. Dont even use it for road trips or anything really. I regret choosing this . God awful."
+            },
+
+            {
+                "ReviewerName": "Kenny",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Good cell phone but with a peculiar theme",
+                "postedDate": "July 18, 2020",
+                "ReviewDesc": "It is an amazing cell phone, it shows the quality of screen, photography and is good size for one-handed operation. The reason I put it 4 stars is because its charger does not do its function. I tried to use it as soon as I opened the package and it didn't work. The strange thing is that this new charger if it charges my S10 and it is also strange because other old chargers and the same charger of the s10 manage to charge the S20."
+            }
+        ]
     },
     {
         "id":8,
@@ -76,7 +650,89 @@
         "title":"Echo Plus (2nd gen) – Premium sound with built-in smart home - Sandstone",
         "price": 119.99,
         "rating": 1,
-        "image":"https://images-na.ssl-images-amazon.com/images/I/61vPv8HtsRL._AC_SL1000_.jpg"
+        "image":"https://images-na.ssl-images-amazon.com/images/I/61vPv8HtsRL._AC_SL1000_.jpg",
+
+        "Reviews": [
+            {
+                "ReviewerName": "Stew Ray",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Most Unreal Phone ive ever had!",
+                "postedDate": "September 22, 2020",
+                "ReviewDesc": "This phone is not a phone its a computer in yer pocket. its so great! I am not a phone guy, and bought because my daughter, and friends, co workers, etc said its hard impossible to get a hold of me. My old phone was so slow. This has it all, definate buy. I even checked a youtube video on side by side comparison of Xynos and Snapdragon phone and they are basically the same. I keep finding new features with this thing. The super fast charging is epic. I dont know where to start, but this is a definite MUST BUY if you need a phone. I hope there is some left."
+            },
+
+            {
+                "ReviewerName": "Keifer W.",
+                "ReviewerRating": 2,
+                "ReviewTitle": "Didn't work",
+                "postedDate": "September 5, 2020",
+                "ReviewDesc": "It loaded up, took all my info from google, and then turned off and never turned back on. Tried everything, left it on the charger for a couple hours, it doesn’t charge. Tried hard reset, nothing. Junk, don’t buy!"
+            },
+
+            {
+                "ReviewerName": "Victor Reyes",
+                "ReviewerRating": 5,
+                "ReviewTitle": "High end at a good price! The best Android on the market",
+                "postedDate": "August 28, 2020",
+                "ReviewDesc": "Excellent cell phone, it has everything and at a very good price on Amazon, arrived earlier than established."
+            },
+
+            {
+                "ReviewerName": "Kassandra Wood",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Love this phone",
+                "postedDate": "August 20, 2020",
+                "ReviewDesc": "I LOVE this phone ❤ battery life awesome, pictures turn out great, and its so pretty lol. I am so happy with this phone, definitely worth the money."
+            },
+
+            {
+                "ReviewerName": "Khalil",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Exynos chipset (know what you are buying)",
+                "postedDate": "August 10, 2020",
+                "ReviewDesc": "Careful before you purchase this, this model is the exynos chipset model that's why it's a tiny bit cheaper than usual. Just a heads up any who see's this knows what they are paying for."
+            },
+
+            {
+                "ReviewerName": "Mark A. Farley",
+                "ReviewerRating": 5,
+                "ReviewTitle": "This phone is easy to use",
+                "postedDate": "August 8, 2020",
+                "ReviewDesc": "My wife she loves this phone."
+            },
+
+            {
+                "ReviewerName": "Chris P.",
+                "ReviewerRating": 3,
+                "ReviewTitle": "Expensive but practical",
+                "postedDate": "August 5, 2020",
+                "ReviewDesc": "It's expensive and not a blackberry but I really had no choice since there isn't a new blackberry out there. I'm worried about security on this device. So far it is decent but I was expecting more for my $."
+            },
+
+            {
+                "ReviewerName": "obed",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Excellent product-price ratio",
+                "postedDate": "August 2, 2020",
+                "ReviewDesc": "Good product, I got it fast and in good condition, the cell phone works very well, only the battery does not last all day in normal use but I think that's all galaxy. The seller is very attentive."
+            },
+
+            {
+                "ReviewerName": "Jot Chahal",
+                "ReviewerRating": 1,
+                "ReviewTitle": "Slow phone",
+                "postedDate": "July 29, 2020",
+                "ReviewDesc": "Seems like this phone went backwards in updates. Operates slowly. The camera is the worst i have ever had. My s8 and the a5 have great cameras. With 20 you need to retake photos constantly. Very often you miss your shot because of this. Photos are blurry and garbage. Like the selfie camera is amazing you can see every pore. But actual camera is useless. Dont even use it for road trips or anything really. I regret choosing this . God awful."
+            },
+
+            {
+                "ReviewerName": "Kenny",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Good cell phone but with a peculiar theme",
+                "postedDate": "July 18, 2020",
+                "ReviewDesc": "It is an amazing cell phone, it shows the quality of screen, photography and is good size for one-handed operation. The reason I put it 4 stars is because its charger does not do its function. I tried to use it as soon as I opened the package and it didn't work. The strange thing is that this new charger if it charges my S10 and it is also strange because other old chargers and the same charger of the s10 manage to charge the S20."
+            }
+        ]
     },
     {
         "id":9,
@@ -84,7 +740,89 @@
         "title":"Echo Show 8 – HD 8 inch smart display with Alexa",
         "price": 84.99,
         "rating": 3,
-        "image":"https://images-na.ssl-images-amazon.com/images/I/61pvbctlAGL._AC_SL1000_.jpg"
+        "image":"https://images-na.ssl-images-amazon.com/images/I/61pvbctlAGL._AC_SL1000_.jpg",
+
+        "Reviews": [
+            {
+                "ReviewerName": "Stew Ray",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Most Unreal Phone ive ever had!",
+                "postedDate": "September 22, 2020",
+                "ReviewDesc": "This phone is not a phone its a computer in yer pocket. its so great! I am not a phone guy, and bought because my daughter, and friends, co workers, etc said its hard impossible to get a hold of me. My old phone was so slow. This has it all, definate buy. I even checked a youtube video on side by side comparison of Xynos and Snapdragon phone and they are basically the same. I keep finding new features with this thing. The super fast charging is epic. I dont know where to start, but this is a definite MUST BUY if you need a phone. I hope there is some left."
+            },
+
+            {
+                "ReviewerName": "Keifer W.",
+                "ReviewerRating": 2,
+                "ReviewTitle": "Didn't work",
+                "postedDate": "September 5, 2020",
+                "ReviewDesc": "It loaded up, took all my info from google, and then turned off and never turned back on. Tried everything, left it on the charger for a couple hours, it doesn’t charge. Tried hard reset, nothing. Junk, don’t buy!"
+            },
+
+            {
+                "ReviewerName": "Victor Reyes",
+                "ReviewerRating": 5,
+                "ReviewTitle": "High end at a good price! The best Android on the market",
+                "postedDate": "August 28, 2020",
+                "ReviewDesc": "Excellent cell phone, it has everything and at a very good price on Amazon, arrived earlier than established."
+            },
+
+            {
+                "ReviewerName": "Kassandra Wood",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Love this phone",
+                "postedDate": "August 20, 2020",
+                "ReviewDesc": "I LOVE this phone ❤ battery life awesome, pictures turn out great, and its so pretty lol. I am so happy with this phone, definitely worth the money."
+            },
+
+            {
+                "ReviewerName": "Khalil",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Exynos chipset (know what you are buying)",
+                "postedDate": "August 10, 2020",
+                "ReviewDesc": "Careful before you purchase this, this model is the exynos chipset model that's why it's a tiny bit cheaper than usual. Just a heads up any who see's this knows what they are paying for."
+            },
+
+            {
+                "ReviewerName": "Mark A. Farley",
+                "ReviewerRating": 5,
+                "ReviewTitle": "This phone is easy to use",
+                "postedDate": "August 8, 2020",
+                "ReviewDesc": "My wife she loves this phone."
+            },
+
+            {
+                "ReviewerName": "Chris P.",
+                "ReviewerRating": 3,
+                "ReviewTitle": "Expensive but practical",
+                "postedDate": "August 5, 2020",
+                "ReviewDesc": "It's expensive and not a blackberry but I really had no choice since there isn't a new blackberry out there. I'm worried about security on this device. So far it is decent but I was expecting more for my $."
+            },
+
+            {
+                "ReviewerName": "obed",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Excellent product-price ratio",
+                "postedDate": "August 2, 2020",
+                "ReviewDesc": "Good product, I got it fast and in good condition, the cell phone works very well, only the battery does not last all day in normal use but I think that's all galaxy. The seller is very attentive."
+            },
+
+            {
+                "ReviewerName": "Jot Chahal",
+                "ReviewerRating": 1,
+                "ReviewTitle": "Slow phone",
+                "postedDate": "July 29, 2020",
+                "ReviewDesc": "Seems like this phone went backwards in updates. Operates slowly. The camera is the worst i have ever had. My s8 and the a5 have great cameras. With 20 you need to retake photos constantly. Very often you miss your shot because of this. Photos are blurry and garbage. Like the selfie camera is amazing you can see every pore. But actual camera is useless. Dont even use it for road trips or anything really. I regret choosing this . God awful."
+            },
+
+            {
+                "ReviewerName": "Kenny",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Good cell phone but with a peculiar theme",
+                "postedDate": "July 18, 2020",
+                "ReviewDesc": "It is an amazing cell phone, it shows the quality of screen, photography and is good size for one-handed operation. The reason I put it 4 stars is because its charger does not do its function. I tried to use it as soon as I opened the package and it didn't work. The strange thing is that this new charger if it charges my S10 and it is also strange because other old chargers and the same charger of the s10 manage to charge the S20."
+            }
+        ]
     },
     {
         "id":10,
@@ -92,7 +830,89 @@
         "title":"Ring Video Doorbell – 1080p HD video, improved motion detection, easy installation – Venetian Bronze (2020 release)",
         "price": 39.99,
         "rating": 3,
-        "image":"https://images-na.ssl-images-amazon.com/images/I/611bAN%2B0zwL._SL1000_.jpg"
+        "image":"https://images-na.ssl-images-amazon.com/images/I/611bAN%2B0zwL._SL1000_.jpg",
+
+        "Reviews": [
+            {
+                "ReviewerName": "Stew Ray",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Most Unreal Phone ive ever had!",
+                "postedDate": "September 22, 2020",
+                "ReviewDesc": "This phone is not a phone its a computer in yer pocket. its so great! I am not a phone guy, and bought because my daughter, and friends, co workers, etc said its hard impossible to get a hold of me. My old phone was so slow. This has it all, definate buy. I even checked a youtube video on side by side comparison of Xynos and Snapdragon phone and they are basically the same. I keep finding new features with this thing. The super fast charging is epic. I dont know where to start, but this is a definite MUST BUY if you need a phone. I hope there is some left."
+            },
+
+            {
+                "ReviewerName": "Keifer W.",
+                "ReviewerRating": 2,
+                "ReviewTitle": "Didn't work",
+                "postedDate": "September 5, 2020",
+                "ReviewDesc": "It loaded up, took all my info from google, and then turned off and never turned back on. Tried everything, left it on the charger for a couple hours, it doesn’t charge. Tried hard reset, nothing. Junk, don’t buy!"
+            },
+
+            {
+                "ReviewerName": "Victor Reyes",
+                "ReviewerRating": 5,
+                "ReviewTitle": "High end at a good price! The best Android on the market",
+                "postedDate": "August 28, 2020",
+                "ReviewDesc": "Excellent cell phone, it has everything and at a very good price on Amazon, arrived earlier than established."
+            },
+
+            {
+                "ReviewerName": "Kassandra Wood",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Love this phone",
+                "postedDate": "August 20, 2020",
+                "ReviewDesc": "I LOVE this phone ❤ battery life awesome, pictures turn out great, and its so pretty lol. I am so happy with this phone, definitely worth the money."
+            },
+
+            {
+                "ReviewerName": "Khalil",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Exynos chipset (know what you are buying)",
+                "postedDate": "August 10, 2020",
+                "ReviewDesc": "Careful before you purchase this, this model is the exynos chipset model that's why it's a tiny bit cheaper than usual. Just a heads up any who see's this knows what they are paying for."
+            },
+
+            {
+                "ReviewerName": "Mark A. Farley",
+                "ReviewerRating": 5,
+                "ReviewTitle": "This phone is easy to use",
+                "postedDate": "August 8, 2020",
+                "ReviewDesc": "My wife she loves this phone."
+            },
+
+            {
+                "ReviewerName": "Chris P.",
+                "ReviewerRating": 3,
+                "ReviewTitle": "Expensive but practical",
+                "postedDate": "August 5, 2020",
+                "ReviewDesc": "It's expensive and not a blackberry but I really had no choice since there isn't a new blackberry out there. I'm worried about security on this device. So far it is decent but I was expecting more for my $."
+            },
+
+            {
+                "ReviewerName": "obed",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Excellent product-price ratio",
+                "postedDate": "August 2, 2020",
+                "ReviewDesc": "Good product, I got it fast and in good condition, the cell phone works very well, only the battery does not last all day in normal use but I think that's all galaxy. The seller is very attentive."
+            },
+
+            {
+                "ReviewerName": "Jot Chahal",
+                "ReviewerRating": 1,
+                "ReviewTitle": "Slow phone",
+                "postedDate": "July 29, 2020",
+                "ReviewDesc": "Seems like this phone went backwards in updates. Operates slowly. The camera is the worst i have ever had. My s8 and the a5 have great cameras. With 20 you need to retake photos constantly. Very often you miss your shot because of this. Photos are blurry and garbage. Like the selfie camera is amazing you can see every pore. But actual camera is useless. Dont even use it for road trips or anything really. I regret choosing this . God awful."
+            },
+
+            {
+                "ReviewerName": "Kenny",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Good cell phone but with a peculiar theme",
+                "postedDate": "July 18, 2020",
+                "ReviewDesc": "It is an amazing cell phone, it shows the quality of screen, photography and is good size for one-handed operation. The reason I put it 4 stars is because its charger does not do its function. I tried to use it as soon as I opened the package and it didn't work. The strange thing is that this new charger if it charges my S10 and it is also strange because other old chargers and the same charger of the s10 manage to charge the S20."
+            }
+        ]
     },
     {
         "id":11,
@@ -100,7 +920,89 @@
         "title":"Ring Smart Lighting – Floodlight, Wired, Outdoor Motion-Sensor Security Light, Black (Ring Bridge required)",
         "price": 49.99,
         "rating": 3,
-        "image":"https://images-na.ssl-images-amazon.com/images/I/51bFlydoduL._SL1000_.jpg"
+        "image":"https://images-na.ssl-images-amazon.com/images/I/51bFlydoduL._SL1000_.jpg",
+
+        "Reviews": [
+            {
+                "ReviewerName": "Stew Ray",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Most Unreal Phone ive ever had!",
+                "postedDate": "September 22, 2020",
+                "ReviewDesc": "This phone is not a phone its a computer in yer pocket. its so great! I am not a phone guy, and bought because my daughter, and friends, co workers, etc said its hard impossible to get a hold of me. My old phone was so slow. This has it all, definate buy. I even checked a youtube video on side by side comparison of Xynos and Snapdragon phone and they are basically the same. I keep finding new features with this thing. The super fast charging is epic. I dont know where to start, but this is a definite MUST BUY if you need a phone. I hope there is some left."
+            },
+
+            {
+                "ReviewerName": "Keifer W.",
+                "ReviewerRating": 2,
+                "ReviewTitle": "Didn't work",
+                "postedDate": "September 5, 2020",
+                "ReviewDesc": "It loaded up, took all my info from google, and then turned off and never turned back on. Tried everything, left it on the charger for a couple hours, it doesn’t charge. Tried hard reset, nothing. Junk, don’t buy!"
+            },
+
+            {
+                "ReviewerName": "Victor Reyes",
+                "ReviewerRating": 5,
+                "ReviewTitle": "High end at a good price! The best Android on the market",
+                "postedDate": "August 28, 2020",
+                "ReviewDesc": "Excellent cell phone, it has everything and at a very good price on Amazon, arrived earlier than established."
+            },
+
+            {
+                "ReviewerName": "Kassandra Wood",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Love this phone",
+                "postedDate": "August 20, 2020",
+                "ReviewDesc": "I LOVE this phone ❤ battery life awesome, pictures turn out great, and its so pretty lol. I am so happy with this phone, definitely worth the money."
+            },
+
+            {
+                "ReviewerName": "Khalil",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Exynos chipset (know what you are buying)",
+                "postedDate": "August 10, 2020",
+                "ReviewDesc": "Careful before you purchase this, this model is the exynos chipset model that's why it's a tiny bit cheaper than usual. Just a heads up any who see's this knows what they are paying for."
+            },
+
+            {
+                "ReviewerName": "Mark A. Farley",
+                "ReviewerRating": 5,
+                "ReviewTitle": "This phone is easy to use",
+                "postedDate": "August 8, 2020",
+                "ReviewDesc": "My wife she loves this phone."
+            },
+
+            {
+                "ReviewerName": "Chris P.",
+                "ReviewerRating": 3,
+                "ReviewTitle": "Expensive but practical",
+                "postedDate": "August 5, 2020",
+                "ReviewDesc": "It's expensive and not a blackberry but I really had no choice since there isn't a new blackberry out there. I'm worried about security on this device. So far it is decent but I was expecting more for my $."
+            },
+
+            {
+                "ReviewerName": "obed",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Excellent product-price ratio",
+                "postedDate": "August 2, 2020",
+                "ReviewDesc": "Good product, I got it fast and in good condition, the cell phone works very well, only the battery does not last all day in normal use but I think that's all galaxy. The seller is very attentive."
+            },
+
+            {
+                "ReviewerName": "Jot Chahal",
+                "ReviewerRating": 1,
+                "ReviewTitle": "Slow phone",
+                "postedDate": "July 29, 2020",
+                "ReviewDesc": "Seems like this phone went backwards in updates. Operates slowly. The camera is the worst i have ever had. My s8 and the a5 have great cameras. With 20 you need to retake photos constantly. Very often you miss your shot because of this. Photos are blurry and garbage. Like the selfie camera is amazing you can see every pore. But actual camera is useless. Dont even use it for road trips or anything really. I regret choosing this . God awful."
+            },
+
+            {
+                "ReviewerName": "Kenny",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Good cell phone but with a peculiar theme",
+                "postedDate": "July 18, 2020",
+                "ReviewDesc": "It is an amazing cell phone, it shows the quality of screen, photography and is good size for one-handed operation. The reason I put it 4 stars is because its charger does not do its function. I tried to use it as soon as I opened the package and it didn't work. The strange thing is that this new charger if it charges my S10 and it is also strange because other old chargers and the same charger of the s10 manage to charge the S20."
+            }
+        ]
     },
     {
         "id":12,
@@ -108,7 +1010,89 @@
         "title":"Nespresso Pixie Coffee Machine by Breville - (BEC430TTN1BUC1), Titan",
         "price": 185.99,
         "rating": 3,
-        "image":"https://images-na.ssl-images-amazon.com/images/I/61NUqSDpwiL._AC_SL1500_.jpg"
+        "image":"https://images-na.ssl-images-amazon.com/images/I/61NUqSDpwiL._AC_SL1500_.jpg",
+
+        "Reviews": [
+            {
+                "ReviewerName": "Stew Ray",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Most Unreal Phone ive ever had!",
+                "postedDate": "September 22, 2020",
+                "ReviewDesc": "This phone is not a phone its a computer in yer pocket. its so great! I am not a phone guy, and bought because my daughter, and friends, co workers, etc said its hard impossible to get a hold of me. My old phone was so slow. This has it all, definate buy. I even checked a youtube video on side by side comparison of Xynos and Snapdragon phone and they are basically the same. I keep finding new features with this thing. The super fast charging is epic. I dont know where to start, but this is a definite MUST BUY if you need a phone. I hope there is some left."
+            },
+
+            {
+                "ReviewerName": "Keifer W.",
+                "ReviewerRating": 2,
+                "ReviewTitle": "Didn't work",
+                "postedDate": "September 5, 2020",
+                "ReviewDesc": "It loaded up, took all my info from google, and then turned off and never turned back on. Tried everything, left it on the charger for a couple hours, it doesn’t charge. Tried hard reset, nothing. Junk, don’t buy!"
+            },
+
+            {
+                "ReviewerName": "Victor Reyes",
+                "ReviewerRating": 5,
+                "ReviewTitle": "High end at a good price! The best Android on the market",
+                "postedDate": "August 28, 2020",
+                "ReviewDesc": "Excellent cell phone, it has everything and at a very good price on Amazon, arrived earlier than established."
+            },
+
+            {
+                "ReviewerName": "Kassandra Wood",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Love this phone",
+                "postedDate": "August 20, 2020",
+                "ReviewDesc": "I LOVE this phone ❤ battery life awesome, pictures turn out great, and its so pretty lol. I am so happy with this phone, definitely worth the money."
+            },
+
+            {
+                "ReviewerName": "Khalil",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Exynos chipset (know what you are buying)",
+                "postedDate": "August 10, 2020",
+                "ReviewDesc": "Careful before you purchase this, this model is the exynos chipset model that's why it's a tiny bit cheaper than usual. Just a heads up any who see's this knows what they are paying for."
+            },
+
+            {
+                "ReviewerName": "Mark A. Farley",
+                "ReviewerRating": 5,
+                "ReviewTitle": "This phone is easy to use",
+                "postedDate": "August 8, 2020",
+                "ReviewDesc": "My wife she loves this phone."
+            },
+
+            {
+                "ReviewerName": "Chris P.",
+                "ReviewerRating": 3,
+                "ReviewTitle": "Expensive but practical",
+                "postedDate": "August 5, 2020",
+                "ReviewDesc": "It's expensive and not a blackberry but I really had no choice since there isn't a new blackberry out there. I'm worried about security on this device. So far it is decent but I was expecting more for my $."
+            },
+
+            {
+                "ReviewerName": "obed",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Excellent product-price ratio",
+                "postedDate": "August 2, 2020",
+                "ReviewDesc": "Good product, I got it fast and in good condition, the cell phone works very well, only the battery does not last all day in normal use but I think that's all galaxy. The seller is very attentive."
+            },
+
+            {
+                "ReviewerName": "Jot Chahal",
+                "ReviewerRating": 1,
+                "ReviewTitle": "Slow phone",
+                "postedDate": "July 29, 2020",
+                "ReviewDesc": "Seems like this phone went backwards in updates. Operates slowly. The camera is the worst i have ever had. My s8 and the a5 have great cameras. With 20 you need to retake photos constantly. Very often you miss your shot because of this. Photos are blurry and garbage. Like the selfie camera is amazing you can see every pore. But actual camera is useless. Dont even use it for road trips or anything really. I regret choosing this . God awful."
+            },
+
+            {
+                "ReviewerName": "Kenny",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Good cell phone but with a peculiar theme",
+                "postedDate": "July 18, 2020",
+                "ReviewDesc": "It is an amazing cell phone, it shows the quality of screen, photography and is good size for one-handed operation. The reason I put it 4 stars is because its charger does not do its function. I tried to use it as soon as I opened the package and it didn't work. The strange thing is that this new charger if it charges my S10 and it is also strange because other old chargers and the same charger of the s10 manage to charge the S20."
+            }
+        ]
     },
     {
         "id":13,
@@ -116,15 +1100,179 @@
         "title":"Nespresso Variety Pack for OriginalLine, 50 Capsules",
         "price": 59.99,
         "rating": 3,
-        "image":"https://images-na.ssl-images-amazon.com/images/I/71S41HVtXUL._AC_SL1500_.jpg"
+        "image":"https://images-na.ssl-images-amazon.com/images/I/71S41HVtXUL._AC_SL1500_.jpg",
+
+        "Reviews": [
+            {
+                "ReviewerName": "Stew Ray",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Most Unreal Phone ive ever had!",
+                "postedDate": "September 22, 2020",
+                "ReviewDesc": "This phone is not a phone its a computer in yer pocket. its so great! I am not a phone guy, and bought because my daughter, and friends, co workers, etc said its hard impossible to get a hold of me. My old phone was so slow. This has it all, definate buy. I even checked a youtube video on side by side comparison of Xynos and Snapdragon phone and they are basically the same. I keep finding new features with this thing. The super fast charging is epic. I dont know where to start, but this is a definite MUST BUY if you need a phone. I hope there is some left."
+            },
+
+            {
+                "ReviewerName": "Keifer W.",
+                "ReviewerRating": 2,
+                "ReviewTitle": "Didn't work",
+                "postedDate": "September 5, 2020",
+                "ReviewDesc": "It loaded up, took all my info from google, and then turned off and never turned back on. Tried everything, left it on the charger for a couple hours, it doesn’t charge. Tried hard reset, nothing. Junk, don’t buy!"
+            },
+
+            {
+                "ReviewerName": "Victor Reyes",
+                "ReviewerRating": 5,
+                "ReviewTitle": "High end at a good price! The best Android on the market",
+                "postedDate": "August 28, 2020",
+                "ReviewDesc": "Excellent cell phone, it has everything and at a very good price on Amazon, arrived earlier than established."
+            },
+
+            {
+                "ReviewerName": "Kassandra Wood",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Love this phone",
+                "postedDate": "August 20, 2020",
+                "ReviewDesc": "I LOVE this phone ❤ battery life awesome, pictures turn out great, and its so pretty lol. I am so happy with this phone, definitely worth the money."
+            },
+
+            {
+                "ReviewerName": "Khalil",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Exynos chipset (know what you are buying)",
+                "postedDate": "August 10, 2020",
+                "ReviewDesc": "Careful before you purchase this, this model is the exynos chipset model that's why it's a tiny bit cheaper than usual. Just a heads up any who see's this knows what they are paying for."
+            },
+
+            {
+                "ReviewerName": "Mark A. Farley",
+                "ReviewerRating": 5,
+                "ReviewTitle": "This phone is easy to use",
+                "postedDate": "August 8, 2020",
+                "ReviewDesc": "My wife she loves this phone."
+            },
+
+            {
+                "ReviewerName": "Chris P.",
+                "ReviewerRating": 3,
+                "ReviewTitle": "Expensive but practical",
+                "postedDate": "August 5, 2020",
+                "ReviewDesc": "It's expensive and not a blackberry but I really had no choice since there isn't a new blackberry out there. I'm worried about security on this device. So far it is decent but I was expecting more for my $."
+            },
+
+            {
+                "ReviewerName": "obed",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Excellent product-price ratio",
+                "postedDate": "August 2, 2020",
+                "ReviewDesc": "Good product, I got it fast and in good condition, the cell phone works very well, only the battery does not last all day in normal use but I think that's all galaxy. The seller is very attentive."
+            },
+
+            {
+                "ReviewerName": "Jot Chahal",
+                "ReviewerRating": 1,
+                "ReviewTitle": "Slow phone",
+                "postedDate": "July 29, 2020",
+                "ReviewDesc": "Seems like this phone went backwards in updates. Operates slowly. The camera is the worst i have ever had. My s8 and the a5 have great cameras. With 20 you need to retake photos constantly. Very often you miss your shot because of this. Photos are blurry and garbage. Like the selfie camera is amazing you can see every pore. But actual camera is useless. Dont even use it for road trips or anything really. I regret choosing this . God awful."
+            },
+
+            {
+                "ReviewerName": "Kenny",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Good cell phone but with a peculiar theme",
+                "postedDate": "July 18, 2020",
+                "ReviewDesc": "It is an amazing cell phone, it shows the quality of screen, photography and is good size for one-handed operation. The reason I put it 4 stars is because its charger does not do its function. I tried to use it as soon as I opened the package and it didn't work. The strange thing is that this new charger if it charges my S10 and it is also strange because other old chargers and the same charger of the s10 manage to charge the S20."
+            }
+        ]
     },
     {
         "id":14,
         "name" : "AmazonBasics Nespresso Coffee Pod Storage",
         "title":"AmazonBasics Nespresso Coffee Pod Storage Drawer Holder, 50 Capsule Capacity",
         "price": 23.99,
-        "rating": 6,
-        "image":"https://images-na.ssl-images-amazon.com/images/I/81wa%2B88fGWL._AC_SL1500_.jpg"
+        "rating": 4,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/81wa%2B88fGWL._AC_SL1500_.jpg",
+
+        "Reviews": [
+            {
+                "ReviewerName": "Stew Ray",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Most Unreal Phone ive ever had!",
+                "postedDate": "September 22, 2020",
+                "ReviewDesc": "This phone is not a phone its a computer in yer pocket. its so great! I am not a phone guy, and bought because my daughter, and friends, co workers, etc said its hard impossible to get a hold of me. My old phone was so slow. This has it all, definate buy. I even checked a youtube video on side by side comparison of Xynos and Snapdragon phone and they are basically the same. I keep finding new features with this thing. The super fast charging is epic. I dont know where to start, but this is a definite MUST BUY if you need a phone. I hope there is some left."
+            },
+
+            {
+                "ReviewerName": "Keifer W.",
+                "ReviewerRating": 2,
+                "ReviewTitle": "Didn't work",
+                "postedDate": "September 5, 2020",
+                "ReviewDesc": "It loaded up, took all my info from google, and then turned off and never turned back on. Tried everything, left it on the charger for a couple hours, it doesn’t charge. Tried hard reset, nothing. Junk, don’t buy!"
+            },
+
+            {
+                "ReviewerName": "Victor Reyes",
+                "ReviewerRating": 5,
+                "ReviewTitle": "High end at a good price! The best Android on the market",
+                "postedDate": "August 28, 2020",
+                "ReviewDesc": "Excellent cell phone, it has everything and at a very good price on Amazon, arrived earlier than established."
+            },
+
+            {
+                "ReviewerName": "Kassandra Wood",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Love this phone",
+                "postedDate": "August 20, 2020",
+                "ReviewDesc": "I LOVE this phone ❤ battery life awesome, pictures turn out great, and its so pretty lol. I am so happy with this phone, definitely worth the money."
+            },
+
+            {
+                "ReviewerName": "Khalil",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Exynos chipset (know what you are buying)",
+                "postedDate": "August 10, 2020",
+                "ReviewDesc": "Careful before you purchase this, this model is the exynos chipset model that's why it's a tiny bit cheaper than usual. Just a heads up any who see's this knows what they are paying for."
+            },
+
+            {
+                "ReviewerName": "Mark A. Farley",
+                "ReviewerRating": 5,
+                "ReviewTitle": "This phone is easy to use",
+                "postedDate": "August 8, 2020",
+                "ReviewDesc": "My wife she loves this phone."
+            },
+
+            {
+                "ReviewerName": "Chris P.",
+                "ReviewerRating": 3,
+                "ReviewTitle": "Expensive but practical",
+                "postedDate": "August 5, 2020",
+                "ReviewDesc": "It's expensive and not a blackberry but I really had no choice since there isn't a new blackberry out there. I'm worried about security on this device. So far it is decent but I was expecting more for my $."
+            },
+
+            {
+                "ReviewerName": "obed",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Excellent product-price ratio",
+                "postedDate": "August 2, 2020",
+                "ReviewDesc": "Good product, I got it fast and in good condition, the cell phone works very well, only the battery does not last all day in normal use but I think that's all galaxy. The seller is very attentive."
+            },
+
+            {
+                "ReviewerName": "Jot Chahal",
+                "ReviewerRating": 1,
+                "ReviewTitle": "Slow phone",
+                "postedDate": "July 29, 2020",
+                "ReviewDesc": "Seems like this phone went backwards in updates. Operates slowly. The camera is the worst i have ever had. My s8 and the a5 have great cameras. With 20 you need to retake photos constantly. Very often you miss your shot because of this. Photos are blurry and garbage. Like the selfie camera is amazing you can see every pore. But actual camera is useless. Dont even use it for road trips or anything really. I regret choosing this . God awful."
+            },
+
+            {
+                "ReviewerName": "Kenny",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Good cell phone but with a peculiar theme",
+                "postedDate": "July 18, 2020",
+                "ReviewDesc": "It is an amazing cell phone, it shows the quality of screen, photography and is good size for one-handed operation. The reason I put it 4 stars is because its charger does not do its function. I tried to use it as soon as I opened the package and it didn't work. The strange thing is that this new charger if it charges my S10 and it is also strange because other old chargers and the same charger of the s10 manage to charge the S20."
+            }
+        ]
     },
     {
         "id":15,
@@ -132,15 +1280,179 @@
         "title":"Moscow Mule Copper Mugs Gift Set - Set of 4",
         "price": 49.99,
         "rating": 5,
-        "image":"https://images-na.ssl-images-amazon.com/images/I/819J26zHObL._AC_SL1500_.jpg"
+        "image":"https://images-na.ssl-images-amazon.com/images/I/819J26zHObL._AC_SL1500_.jpg",
+
+        "Reviews": [
+            {
+                "ReviewerName": "Stew Ray",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Most Unreal Phone ive ever had!",
+                "postedDate": "September 22, 2020",
+                "ReviewDesc": "This phone is not a phone its a computer in yer pocket. its so great! I am not a phone guy, and bought because my daughter, and friends, co workers, etc said its hard impossible to get a hold of me. My old phone was so slow. This has it all, definate buy. I even checked a youtube video on side by side comparison of Xynos and Snapdragon phone and they are basically the same. I keep finding new features with this thing. The super fast charging is epic. I dont know where to start, but this is a definite MUST BUY if you need a phone. I hope there is some left."
+            },
+
+            {
+                "ReviewerName": "Keifer W.",
+                "ReviewerRating": 2,
+                "ReviewTitle": "Didn't work",
+                "postedDate": "September 5, 2020",
+                "ReviewDesc": "It loaded up, took all my info from google, and then turned off and never turned back on. Tried everything, left it on the charger for a couple hours, it doesn’t charge. Tried hard reset, nothing. Junk, don’t buy!"
+            },
+
+            {
+                "ReviewerName": "Victor Reyes",
+                "ReviewerRating": 5,
+                "ReviewTitle": "High end at a good price! The best Android on the market",
+                "postedDate": "August 28, 2020",
+                "ReviewDesc": "Excellent cell phone, it has everything and at a very good price on Amazon, arrived earlier than established."
+            },
+
+            {
+                "ReviewerName": "Kassandra Wood",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Love this phone",
+                "postedDate": "August 20, 2020",
+                "ReviewDesc": "I LOVE this phone ❤ battery life awesome, pictures turn out great, and its so pretty lol. I am so happy with this phone, definitely worth the money."
+            },
+
+            {
+                "ReviewerName": "Khalil",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Exynos chipset (know what you are buying)",
+                "postedDate": "August 10, 2020",
+                "ReviewDesc": "Careful before you purchase this, this model is the exynos chipset model that's why it's a tiny bit cheaper than usual. Just a heads up any who see's this knows what they are paying for."
+            },
+
+            {
+                "ReviewerName": "Mark A. Farley",
+                "ReviewerRating": 5,
+                "ReviewTitle": "This phone is easy to use",
+                "postedDate": "August 8, 2020",
+                "ReviewDesc": "My wife she loves this phone."
+            },
+
+            {
+                "ReviewerName": "Chris P.",
+                "ReviewerRating": 3,
+                "ReviewTitle": "Expensive but practical",
+                "postedDate": "August 5, 2020",
+                "ReviewDesc": "It's expensive and not a blackberry but I really had no choice since there isn't a new blackberry out there. I'm worried about security on this device. So far it is decent but I was expecting more for my $."
+            },
+
+            {
+                "ReviewerName": "obed",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Excellent product-price ratio",
+                "postedDate": "August 2, 2020",
+                "ReviewDesc": "Good product, I got it fast and in good condition, the cell phone works very well, only the battery does not last all day in normal use but I think that's all galaxy. The seller is very attentive."
+            },
+
+            {
+                "ReviewerName": "Jot Chahal",
+                "ReviewerRating": 1,
+                "ReviewTitle": "Slow phone",
+                "postedDate": "July 29, 2020",
+                "ReviewDesc": "Seems like this phone went backwards in updates. Operates slowly. The camera is the worst i have ever had. My s8 and the a5 have great cameras. With 20 you need to retake photos constantly. Very often you miss your shot because of this. Photos are blurry and garbage. Like the selfie camera is amazing you can see every pore. But actual camera is useless. Dont even use it for road trips or anything really. I regret choosing this . God awful."
+            },
+
+            {
+                "ReviewerName": "Kenny",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Good cell phone but with a peculiar theme",
+                "postedDate": "July 18, 2020",
+                "ReviewDesc": "It is an amazing cell phone, it shows the quality of screen, photography and is good size for one-handed operation. The reason I put it 4 stars is because its charger does not do its function. I tried to use it as soon as I opened the package and it didn't work. The strange thing is that this new charger if it charges my S10 and it is also strange because other old chargers and the same charger of the s10 manage to charge the S20."
+            }
+        ]
     },
     {
         "id":16,
         "name" : "Samsung Monitor T55 32 Inch",
         "title":"Samsung Monitor T55 32 Inch |32 inch Curved Monitor (LC32T550FDNXZA)",
         "price": 218.99,
-        "rating": 1,
-        "image":"https://images-na.ssl-images-amazon.com/images/I/71j-LEOPs-L._AC_SL1500_.jpg"
+        "rating": 2,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/71j-LEOPs-L._AC_SL1500_.jpg",
+
+        "Reviews": [
+            {
+                "ReviewerName": "Stew Ray",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Most Unreal Phone ive ever had!",
+                "postedDate": "September 22, 2020",
+                "ReviewDesc": "This phone is not a phone its a computer in yer pocket. its so great! I am not a phone guy, and bought because my daughter, and friends, co workers, etc said its hard impossible to get a hold of me. My old phone was so slow. This has it all, definate buy. I even checked a youtube video on side by side comparison of Xynos and Snapdragon phone and they are basically the same. I keep finding new features with this thing. The super fast charging is epic. I dont know where to start, but this is a definite MUST BUY if you need a phone. I hope there is some left."
+            },
+
+            {
+                "ReviewerName": "Keifer W.",
+                "ReviewerRating": 2,
+                "ReviewTitle": "Didn't work",
+                "postedDate": "September 5, 2020",
+                "ReviewDesc": "It loaded up, took all my info from google, and then turned off and never turned back on. Tried everything, left it on the charger for a couple hours, it doesn’t charge. Tried hard reset, nothing. Junk, don’t buy!"
+            },
+
+            {
+                "ReviewerName": "Victor Reyes",
+                "ReviewerRating": 5,
+                "ReviewTitle": "High end at a good price! The best Android on the market",
+                "postedDate": "August 28, 2020",
+                "ReviewDesc": "Excellent cell phone, it has everything and at a very good price on Amazon, arrived earlier than established."
+            },
+
+            {
+                "ReviewerName": "Kassandra Wood",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Love this phone",
+                "postedDate": "August 20, 2020",
+                "ReviewDesc": "I LOVE this phone ❤ battery life awesome, pictures turn out great, and its so pretty lol. I am so happy with this phone, definitely worth the money."
+            },
+
+            {
+                "ReviewerName": "Khalil",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Exynos chipset (know what you are buying)",
+                "postedDate": "August 10, 2020",
+                "ReviewDesc": "Careful before you purchase this, this model is the exynos chipset model that's why it's a tiny bit cheaper than usual. Just a heads up any who see's this knows what they are paying for."
+            },
+
+            {
+                "ReviewerName": "Mark A. Farley",
+                "ReviewerRating": 5,
+                "ReviewTitle": "This phone is easy to use",
+                "postedDate": "August 8, 2020",
+                "ReviewDesc": "My wife she loves this phone."
+            },
+
+            {
+                "ReviewerName": "Chris P.",
+                "ReviewerRating": 3,
+                "ReviewTitle": "Expensive but practical",
+                "postedDate": "August 5, 2020",
+                "ReviewDesc": "It's expensive and not a blackberry but I really had no choice since there isn't a new blackberry out there. I'm worried about security on this device. So far it is decent but I was expecting more for my $."
+            },
+
+            {
+                "ReviewerName": "obed",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Excellent product-price ratio",
+                "postedDate": "August 2, 2020",
+                "ReviewDesc": "Good product, I got it fast and in good condition, the cell phone works very well, only the battery does not last all day in normal use but I think that's all galaxy. The seller is very attentive."
+            },
+
+            {
+                "ReviewerName": "Jot Chahal",
+                "ReviewerRating": 1,
+                "ReviewTitle": "Slow phone",
+                "postedDate": "July 29, 2020",
+                "ReviewDesc": "Seems like this phone went backwards in updates. Operates slowly. The camera is the worst i have ever had. My s8 and the a5 have great cameras. With 20 you need to retake photos constantly. Very often you miss your shot because of this. Photos are blurry and garbage. Like the selfie camera is amazing you can see every pore. But actual camera is useless. Dont even use it for road trips or anything really. I regret choosing this . God awful."
+            },
+
+            {
+                "ReviewerName": "Kenny",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Good cell phone but with a peculiar theme",
+                "postedDate": "July 18, 2020",
+                "ReviewDesc": "It is an amazing cell phone, it shows the quality of screen, photography and is good size for one-handed operation. The reason I put it 4 stars is because its charger does not do its function. I tried to use it as soon as I opened the package and it didn't work. The strange thing is that this new charger if it charges my S10 and it is also strange because other old chargers and the same charger of the s10 manage to charge the S20."
+            }
+        ]
     },
     {
         "id":17,
@@ -148,7 +1460,89 @@
         "title":"Rankie DisplayPort to DisplayPort Cable, DP to DP, 4K Resolution, 6 Feet, Black",
         "price": 11.99,
         "rating": 3,
-        "image":"https://images-na.ssl-images-amazon.com/images/I/61JISsq3KqL._AC_SL1500_.jpg"
+        "image":"https://images-na.ssl-images-amazon.com/images/I/61JISsq3KqL._AC_SL1500_.jpg",
+
+        "Reviews": [
+            {
+                "ReviewerName": "Stew Ray",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Most Unreal Phone ive ever had!",
+                "postedDate": "September 22, 2020",
+                "ReviewDesc": "This phone is not a phone its a computer in yer pocket. its so great! I am not a phone guy, and bought because my daughter, and friends, co workers, etc said its hard impossible to get a hold of me. My old phone was so slow. This has it all, definate buy. I even checked a youtube video on side by side comparison of Xynos and Snapdragon phone and they are basically the same. I keep finding new features with this thing. The super fast charging is epic. I dont know where to start, but this is a definite MUST BUY if you need a phone. I hope there is some left."
+            },
+
+            {
+                "ReviewerName": "Keifer W.",
+                "ReviewerRating": 2,
+                "ReviewTitle": "Didn't work",
+                "postedDate": "September 5, 2020",
+                "ReviewDesc": "It loaded up, took all my info from google, and then turned off and never turned back on. Tried everything, left it on the charger for a couple hours, it doesn’t charge. Tried hard reset, nothing. Junk, don’t buy!"
+            },
+
+            {
+                "ReviewerName": "Victor Reyes",
+                "ReviewerRating": 5,
+                "ReviewTitle": "High end at a good price! The best Android on the market",
+                "postedDate": "August 28, 2020",
+                "ReviewDesc": "Excellent cell phone, it has everything and at a very good price on Amazon, arrived earlier than established."
+            },
+
+            {
+                "ReviewerName": "Kassandra Wood",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Love this phone",
+                "postedDate": "August 20, 2020",
+                "ReviewDesc": "I LOVE this phone ❤ battery life awesome, pictures turn out great, and its so pretty lol. I am so happy with this phone, definitely worth the money."
+            },
+
+            {
+                "ReviewerName": "Khalil",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Exynos chipset (know what you are buying)",
+                "postedDate": "August 10, 2020",
+                "ReviewDesc": "Careful before you purchase this, this model is the exynos chipset model that's why it's a tiny bit cheaper than usual. Just a heads up any who see's this knows what they are paying for."
+            },
+
+            {
+                "ReviewerName": "Mark A. Farley",
+                "ReviewerRating": 5,
+                "ReviewTitle": "This phone is easy to use",
+                "postedDate": "August 8, 2020",
+                "ReviewDesc": "My wife she loves this phone."
+            },
+
+            {
+                "ReviewerName": "Chris P.",
+                "ReviewerRating": 3,
+                "ReviewTitle": "Expensive but practical",
+                "postedDate": "August 5, 2020",
+                "ReviewDesc": "It's expensive and not a blackberry but I really had no choice since there isn't a new blackberry out there. I'm worried about security on this device. So far it is decent but I was expecting more for my $."
+            },
+
+            {
+                "ReviewerName": "obed",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Excellent product-price ratio",
+                "postedDate": "August 2, 2020",
+                "ReviewDesc": "Good product, I got it fast and in good condition, the cell phone works very well, only the battery does not last all day in normal use but I think that's all galaxy. The seller is very attentive."
+            },
+
+            {
+                "ReviewerName": "Jot Chahal",
+                "ReviewerRating": 1,
+                "ReviewTitle": "Slow phone",
+                "postedDate": "July 29, 2020",
+                "ReviewDesc": "Seems like this phone went backwards in updates. Operates slowly. The camera is the worst i have ever had. My s8 and the a5 have great cameras. With 20 you need to retake photos constantly. Very often you miss your shot because of this. Photos are blurry and garbage. Like the selfie camera is amazing you can see every pore. But actual camera is useless. Dont even use it for road trips or anything really. I regret choosing this . God awful."
+            },
+
+            {
+                "ReviewerName": "Kenny",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Good cell phone but with a peculiar theme",
+                "postedDate": "July 18, 2020",
+                "ReviewDesc": "It is an amazing cell phone, it shows the quality of screen, photography and is good size for one-handed operation. The reason I put it 4 stars is because its charger does not do its function. I tried to use it as soon as I opened the package and it didn't work. The strange thing is that this new charger if it charges my S10 and it is also strange because other old chargers and the same charger of the s10 manage to charge the S20."
+            }
+        ]
     },
     {
         "id":18,
@@ -156,7 +1550,89 @@
         "title":"Seneo Wireless Charger, 3 in 1 Wireless Charging Station ",
         "price": 49.99,
         "rating": 3,
-        "image":"https://images-na.ssl-images-amazon.com/images/I/71bjdpbTYSL._AC_SL1280_.jpg"
+        "image":"https://images-na.ssl-images-amazon.com/images/I/71bjdpbTYSL._AC_SL1280_.jpg",
+
+        "Reviews": [
+            {
+                "ReviewerName": "Stew Ray",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Most Unreal Phone ive ever had!",
+                "postedDate": "September 22, 2020",
+                "ReviewDesc": "This phone is not a phone its a computer in yer pocket. its so great! I am not a phone guy, and bought because my daughter, and friends, co workers, etc said its hard impossible to get a hold of me. My old phone was so slow. This has it all, definate buy. I even checked a youtube video on side by side comparison of Xynos and Snapdragon phone and they are basically the same. I keep finding new features with this thing. The super fast charging is epic. I dont know where to start, but this is a definite MUST BUY if you need a phone. I hope there is some left."
+            },
+
+            {
+                "ReviewerName": "Keifer W.",
+                "ReviewerRating": 2,
+                "ReviewTitle": "Didn't work",
+                "postedDate": "September 5, 2020",
+                "ReviewDesc": "It loaded up, took all my info from google, and then turned off and never turned back on. Tried everything, left it on the charger for a couple hours, it doesn’t charge. Tried hard reset, nothing. Junk, don’t buy!"
+            },
+
+            {
+                "ReviewerName": "Victor Reyes",
+                "ReviewerRating": 5,
+                "ReviewTitle": "High end at a good price! The best Android on the market",
+                "postedDate": "August 28, 2020",
+                "ReviewDesc": "Excellent cell phone, it has everything and at a very good price on Amazon, arrived earlier than established."
+            },
+
+            {
+                "ReviewerName": "Kassandra Wood",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Love this phone",
+                "postedDate": "August 20, 2020",
+                "ReviewDesc": "I LOVE this phone ❤ battery life awesome, pictures turn out great, and its so pretty lol. I am so happy with this phone, definitely worth the money."
+            },
+
+            {
+                "ReviewerName": "Khalil",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Exynos chipset (know what you are buying)",
+                "postedDate": "August 10, 2020",
+                "ReviewDesc": "Careful before you purchase this, this model is the exynos chipset model that's why it's a tiny bit cheaper than usual. Just a heads up any who see's this knows what they are paying for."
+            },
+
+            {
+                "ReviewerName": "Mark A. Farley",
+                "ReviewerRating": 5,
+                "ReviewTitle": "This phone is easy to use",
+                "postedDate": "August 8, 2020",
+                "ReviewDesc": "My wife she loves this phone."
+            },
+
+            {
+                "ReviewerName": "Chris P.",
+                "ReviewerRating": 3,
+                "ReviewTitle": "Expensive but practical",
+                "postedDate": "August 5, 2020",
+                "ReviewDesc": "It's expensive and not a blackberry but I really had no choice since there isn't a new blackberry out there. I'm worried about security on this device. So far it is decent but I was expecting more for my $."
+            },
+
+            {
+                "ReviewerName": "obed",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Excellent product-price ratio",
+                "postedDate": "August 2, 2020",
+                "ReviewDesc": "Good product, I got it fast and in good condition, the cell phone works very well, only the battery does not last all day in normal use but I think that's all galaxy. The seller is very attentive."
+            },
+
+            {
+                "ReviewerName": "Jot Chahal",
+                "ReviewerRating": 1,
+                "ReviewTitle": "Slow phone",
+                "postedDate": "July 29, 2020",
+                "ReviewDesc": "Seems like this phone went backwards in updates. Operates slowly. The camera is the worst i have ever had. My s8 and the a5 have great cameras. With 20 you need to retake photos constantly. Very often you miss your shot because of this. Photos are blurry and garbage. Like the selfie camera is amazing you can see every pore. But actual camera is useless. Dont even use it for road trips or anything really. I regret choosing this . God awful."
+            },
+
+            {
+                "ReviewerName": "Kenny",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Good cell phone but with a peculiar theme",
+                "postedDate": "July 18, 2020",
+                "ReviewDesc": "It is an amazing cell phone, it shows the quality of screen, photography and is good size for one-handed operation. The reason I put it 4 stars is because its charger does not do its function. I tried to use it as soon as I opened the package and it didn't work. The strange thing is that this new charger if it charges my S10 and it is also strange because other old chargers and the same charger of the s10 manage to charge the S20."
+            }
+        ]
     },
     {
         "id":19,
@@ -164,14 +1640,178 @@
         "title":"Timex Men's Sport Expedition Ranger Solar 43mm Leather Strap Watch",
         "price": 64.99,
         "rating": 3,
-        "image":"https://images-na.ssl-images-amazon.com/images/I/717JORzTWdL._AC_SL1000_.jpg"
+        "image":"https://images-na.ssl-images-amazon.com/images/I/717JORzTWdL._AC_SL1000_.jpg",
+
+        "Reviews": [
+            {
+                "ReviewerName": "Stew Ray",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Most Unreal Phone ive ever had!",
+                "postedDate": "September 22, 2020",
+                "ReviewDesc": "This phone is not a phone its a computer in yer pocket. its so great! I am not a phone guy, and bought because my daughter, and friends, co workers, etc said its hard impossible to get a hold of me. My old phone was so slow. This has it all, definate buy. I even checked a youtube video on side by side comparison of Xynos and Snapdragon phone and they are basically the same. I keep finding new features with this thing. The super fast charging is epic. I dont know where to start, but this is a definite MUST BUY if you need a phone. I hope there is some left."
+            },
+
+            {
+                "ReviewerName": "Keifer W.",
+                "ReviewerRating": 2,
+                "ReviewTitle": "Didn't work",
+                "postedDate": "September 5, 2020",
+                "ReviewDesc": "It loaded up, took all my info from google, and then turned off and never turned back on. Tried everything, left it on the charger for a couple hours, it doesn’t charge. Tried hard reset, nothing. Junk, don’t buy!"
+            },
+
+            {
+                "ReviewerName": "Victor Reyes",
+                "ReviewerRating": 5,
+                "ReviewTitle": "High end at a good price! The best Android on the market",
+                "postedDate": "August 28, 2020",
+                "ReviewDesc": "Excellent cell phone, it has everything and at a very good price on Amazon, arrived earlier than established."
+            },
+
+            {
+                "ReviewerName": "Kassandra Wood",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Love this phone",
+                "postedDate": "August 20, 2020",
+                "ReviewDesc": "I LOVE this phone ❤ battery life awesome, pictures turn out great, and its so pretty lol. I am so happy with this phone, definitely worth the money."
+            },
+
+            {
+                "ReviewerName": "Khalil",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Exynos chipset (know what you are buying)",
+                "postedDate": "August 10, 2020",
+                "ReviewDesc": "Careful before you purchase this, this model is the exynos chipset model that's why it's a tiny bit cheaper than usual. Just a heads up any who see's this knows what they are paying for."
+            },
+
+            {
+                "ReviewerName": "Mark A. Farley",
+                "ReviewerRating": 5,
+                "ReviewTitle": "This phone is easy to use",
+                "postedDate": "August 8, 2020",
+                "ReviewDesc": "My wife she loves this phone."
+            },
+
+            {
+                "ReviewerName": "Chris P.",
+                "ReviewerRating": 3,
+                "ReviewTitle": "Expensive but practical",
+                "postedDate": "August 5, 2020",
+                "ReviewDesc": "It's expensive and not a blackberry but I really had no choice since there isn't a new blackberry out there. I'm worried about security on this device. So far it is decent but I was expecting more for my $."
+            },
+
+            {
+                "ReviewerName": "obed",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Excellent product-price ratio",
+                "postedDate": "August 2, 2020",
+                "ReviewDesc": "Good product, I got it fast and in good condition, the cell phone works very well, only the battery does not last all day in normal use but I think that's all galaxy. The seller is very attentive."
+            },
+
+            {
+                "ReviewerName": "Jot Chahal",
+                "ReviewerRating": 1,
+                "ReviewTitle": "Slow phone",
+                "postedDate": "July 29, 2020",
+                "ReviewDesc": "Seems like this phone went backwards in updates. Operates slowly. The camera is the worst i have ever had. My s8 and the a5 have great cameras. With 20 you need to retake photos constantly. Very often you miss your shot because of this. Photos are blurry and garbage. Like the selfie camera is amazing you can see every pore. But actual camera is useless. Dont even use it for road trips or anything really. I regret choosing this . God awful."
+            },
+
+            {
+                "ReviewerName": "Kenny",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Good cell phone but with a peculiar theme",
+                "postedDate": "July 18, 2020",
+                "ReviewDesc": "It is an amazing cell phone, it shows the quality of screen, photography and is good size for one-handed operation. The reason I put it 4 stars is because its charger does not do its function. I tried to use it as soon as I opened the package and it didn't work. The strange thing is that this new charger if it charges my S10 and it is also strange because other old chargers and the same charger of the s10 manage to charge the S20."
+            }
+        ]
     },
     {
         "id":20,
         "name" : "Wireless Charger",
         "title":"Wireless Charger,4 in 1 Wireless Charging Station ",
         "price": 54.99,
-        "rating": 1,
-        "image":"https://images-na.ssl-images-amazon.com/images/I/61A2VCeFHRL._AC_SL1500_.jpg"
+        "rating": 2,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/61A2VCeFHRL._AC_SL1500_.jpg",
+
+        "Reviews": [
+            {
+                "ReviewerName": "Stew Ray",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Most Unreal Phone ive ever had!",
+                "postedDate": "September 22, 2020",
+                "ReviewDesc": "This phone is not a phone its a computer in yer pocket. its so great! I am not a phone guy, and bought because my daughter, and friends, co workers, etc said its hard impossible to get a hold of me. My old phone was so slow. This has it all, definate buy. I even checked a youtube video on side by side comparison of Xynos and Snapdragon phone and they are basically the same. I keep finding new features with this thing. The super fast charging is epic. I dont know where to start, but this is a definite MUST BUY if you need a phone. I hope there is some left."
+            },
+
+            {
+                "ReviewerName": "Keifer W.",
+                "ReviewerRating": 2,
+                "ReviewTitle": "Didn't work",
+                "postedDate": "September 5, 2020",
+                "ReviewDesc": "It loaded up, took all my info from google, and then turned off and never turned back on. Tried everything, left it on the charger for a couple hours, it doesn’t charge. Tried hard reset, nothing. Junk, don’t buy!"
+            },
+
+            {
+                "ReviewerName": "Victor Reyes",
+                "ReviewerRating": 5,
+                "ReviewTitle": "High end at a good price! The best Android on the market",
+                "postedDate": "August 28, 2020",
+                "ReviewDesc": "Excellent cell phone, it has everything and at a very good price on Amazon, arrived earlier than established."
+            },
+
+            {
+                "ReviewerName": "Kassandra Wood",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Love this phone",
+                "postedDate": "August 20, 2020",
+                "ReviewDesc": "I LOVE this phone ❤ battery life awesome, pictures turn out great, and its so pretty lol. I am so happy with this phone, definitely worth the money."
+            },
+
+            {
+                "ReviewerName": "Khalil",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Exynos chipset (know what you are buying)",
+                "postedDate": "August 10, 2020",
+                "ReviewDesc": "Careful before you purchase this, this model is the exynos chipset model that's why it's a tiny bit cheaper than usual. Just a heads up any who see's this knows what they are paying for."
+            },
+
+            {
+                "ReviewerName": "Mark A. Farley",
+                "ReviewerRating": 5,
+                "ReviewTitle": "This phone is easy to use",
+                "postedDate": "August 8, 2020",
+                "ReviewDesc": "My wife she loves this phone."
+            },
+
+            {
+                "ReviewerName": "Chris P.",
+                "ReviewerRating": 3,
+                "ReviewTitle": "Expensive but practical",
+                "postedDate": "August 5, 2020",
+                "ReviewDesc": "It's expensive and not a blackberry but I really had no choice since there isn't a new blackberry out there. I'm worried about security on this device. So far it is decent but I was expecting more for my $."
+            },
+
+            {
+                "ReviewerName": "obed",
+                "ReviewerRating": 5,
+                "ReviewTitle": "Excellent product-price ratio",
+                "postedDate": "August 2, 2020",
+                "ReviewDesc": "Good product, I got it fast and in good condition, the cell phone works very well, only the battery does not last all day in normal use but I think that's all galaxy. The seller is very attentive."
+            },
+
+            {
+                "ReviewerName": "Jot Chahal",
+                "ReviewerRating": 1,
+                "ReviewTitle": "Slow phone",
+                "postedDate": "July 29, 2020",
+                "ReviewDesc": "Seems like this phone went backwards in updates. Operates slowly. The camera is the worst i have ever had. My s8 and the a5 have great cameras. With 20 you need to retake photos constantly. Very often you miss your shot because of this. Photos are blurry and garbage. Like the selfie camera is amazing you can see every pore. But actual camera is useless. Dont even use it for road trips or anything really. I regret choosing this . God awful."
+            },
+
+            {
+                "ReviewerName": "Kenny",
+                "ReviewerRating": 4,
+                "ReviewTitle": "Good cell phone but with a peculiar theme",
+                "postedDate": "July 18, 2020",
+                "ReviewDesc": "It is an amazing cell phone, it shows the quality of screen, photography and is good size for one-handed operation. The reason I put it 4 stars is because its charger does not do its function. I tried to use it as soon as I opened the package and it didn't work. The strange thing is that this new charger if it charges my S10 and it is also strange because other old chargers and the same charger of the s10 manage to charge the S20."
+            }
+        ]
     }
 ]

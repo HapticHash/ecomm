@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link, useHistory } from "react-router-dom"
 import items from './prod.json';
 import './Products.css'
 import { useStateValue } from './StateProvider';
@@ -8,7 +7,7 @@ import { useStateValue } from './StateProvider';
         let {id} = props.match.params
         const product = items.find(product => product.id === id)
         
-        let {name, title, price, image, rating, aboutItem1, aboutItem2, aboutItem3, aboutItem4, totalReviews, ReviewerName, ReviewerRating, ReviewTitle, postedDate, ReviewDesc} = items[id-1]
+        let {name, title, price, image, rating, aboutItem1, aboutItem2, aboutItem3, aboutItem4, totalReviews} = items[id-1]
         const [{}, dispatch] = useStateValue()
         const addToBasket = () => {
             dispatch({
@@ -26,7 +25,7 @@ import { useStateValue } from './StateProvider';
 
     return (
 
-        <
+        
         <div className="products">
             <div className="scrollable">
                 <div className="products__info">
@@ -42,7 +41,7 @@ import { useStateValue } from './StateProvider';
                                 <p>⭐</p>
                             ))}
                     </div>
-                    <p> Total Review : {totalReviews}</p>
+                    <p className="products__rating__total"> Total Review : {totalReviews}</p>
                 </div>
                 <img src={image} alt=""/>
                 <div className="button__cart">
@@ -60,39 +59,43 @@ import { useStateValue } from './StateProvider';
                     <br/>
                     <p> <b> Customer Reviews </b></p>
                     
-                    <div className="product__review">
-                        <div className="product__review__intro">
-                            <div className="reviewer__top">
-                                <div className="reviewer__image">
-                                    <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-status/256/avatar-default-icon.png"/>
+                    
+                    {items[id-1].Reviews.map(list => (   
+                        <div className="product__review">
+                            <div className="product__review__intro">
+                                <div className="reviewer__top">
+                                    <div className="reviewer__image">
+                                        <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-status/256/avatar-default-icon.png"/>
+                                    </div>
+                                    <div className="reviewer__name">
+                                        {list.ReviewerName}
+                                    </div>
                                 </div>
-                                <div className="reviewer__name">
-                                    {ReviewerName}
+                                <div className="reviewer__rating">
+                                    {Array(list.ReviewerRating)
+                                    .fill()
+                                    .map((_) => (
+                                        <p>⭐</p>
+                                    ))}
+                                    <span className="review__title"> {list.ReviewTitle} </span>
                                 </div>
+                                <div className="review__posted"> Reviewed on {list.postedDate}</div>
                             </div>
-                            <div className="reviewer__rating">
-                                {Array(ReviewerRating)
-                                .fill()
-                                .map((_) => (
-                                    <p>⭐</p>
-                                ))}
-                                <span className="review__title"> {ReviewTitle} </span>
+                            <div className="product__review__desc">
+                                {list.ReviewDesc}
                             </div>
-                            <div className="review__posted"> Reviewed on {postedDate}</div>
                         </div>
-                        <div className="product__review__desc">
-                            {ReviewDesc}
-                        </div>
-                    </div>
+                    ))}
+                    
                 </div>
 
-                  <div className="product_review">
+                  {/* <div className="product_review">
                     <p><strong>Review this product</strong></p>
                     <p>Share your thoughts with other customers</p>
                     <Link key={id} to={`/create-review/${id}`}>
                         <button className="btn_review">Write a customer review</button>
                     </Link>
-                </div>
+                </div> */}
 
             </div>
         </div>
