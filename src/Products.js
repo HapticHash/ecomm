@@ -24,6 +24,8 @@ const Products = (props) => {
     };
 
     return (
+
+        <
         <div className="products">
             <div className="scrollable">
                 <div className="products__info">
