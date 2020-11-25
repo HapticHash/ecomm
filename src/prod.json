@@ -49,5 +49,125 @@
         "price": 29.99,
         "rating": 3,
         "image":"https://images-na.ssl-images-amazon.com/images/I/71Xi2OUyD5L._AC_SX425_.jpg"
+    },
+    {
+        "id":6,
+        "name" : "Smart speaker with Alexa",
+        "title":"All-new Echo Dot (4th Gen) | Smart speaker with Alexa | Charcoal",
+        "price": 39.99,
+        "rating": 8,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/71KJ6VCJlOL._AC_SL1000_.jpg"
+    },
+    {
+        "id":7,
+        "name" : "Amazon Smart Plug",
+        "title":"Amazon Smart Plug, works with Alexa",
+        "price": 34.99,
+        "rating": 6,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/51yy4dHf5VL._AC_SL1000_.jpg"
+    },
+    {
+        "id":8,
+        "name" : "Echo Plus (2nd gen)",
+        "title":"Echo Plus (2nd gen) – Premium sound with built-in smart home - Sandstone",
+        "price": 119.99,
+        "rating": 1,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/61vPv8HtsRL._AC_SL1000_.jpg"
+    },
+    {
+        "id":9,
+        "name" : "Echo Show 8",
+        "title":"Echo Show 8 – HD 8 inch smart display with Alexa",
+        "price": 84.99,
+        "rating": 3,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/61pvbctlAGL._AC_SL1000_.jpg"
+    },
+    {
+        "id":10,
+        "name" : "Ring Video Doorbell",
+        "title":"Ring Video Doorbell – 1080p HD video, improved motion detection, easy installation – Venetian Bronze (2020 release)",
+        "price": 39.99,
+        "rating": 3,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/611bAN%2B0zwL._SL1000_.jpg"
+    },
+    {
+        "id":11,
+        "name" : "Ring Smart Lighting",
+        "title":"Ring Smart Lighting – Floodlight, Wired, Outdoor Motion-Sensor Security Light, Black (Ring Bridge required)",
+        "price": 49.99,
+        "rating": 3,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/51bFlydoduL._SL1000_.jpg"
+    },
+    {
+        "id":12,
+        "name" : "Nespresso Pixie Coffee Machine by",
+        "title":"Nespresso Pixie Coffee Machine by Breville - (BEC430TTN1BUC1), Titan",
+        "price": 185.99,
+        "rating": 3,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/61NUqSDpwiL._AC_SL1500_.jpg"
+    },
+    {
+        "id":13,
+        "name" : "Nespresso Variety Pack",
+        "title":"Nespresso Variety Pack for OriginalLine, 50 Capsules",
+        "price": 59.99,
+        "rating": 3,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/71S41HVtXUL._AC_SL1500_.jpg"
+    },
+    {
+        "id":14,
+        "name" : "AmazonBasics Nespresso Coffee Pod Storage",
+        "title":"AmazonBasics Nespresso Coffee Pod Storage Drawer Holder, 50 Capsule Capacity",
+        "price": 23.99,
+        "rating": 6,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/81wa%2B88fGWL._AC_SL1500_.jpg"
+    },
+    {
+        "id":15,
+        "name" : "Moscow Mule Copper Mugs",
+        "title":"Moscow Mule Copper Mugs Gift Set - Set of 4",
+        "price": 49.99,
+        "rating": 5,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/819J26zHObL._AC_SL1500_.jpg"
+    },
+    {
+        "id":16,
+        "name" : "Samsung Monitor T55 32 Inch",
+        "title":"Samsung Monitor T55 32 Inch |32 inch Curved Monitor (LC32T550FDNXZA)",
+        "price": 218.99,
+        "rating": 1,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/71j-LEOPs-L._AC_SL1500_.jpg"
+    },
+    {
+        "id":17,
+        "name" : "Rankie DisplayPort to DisplayPort Cable",
+        "title":"Rankie DisplayPort to DisplayPort Cable, DP to DP, 4K Resolution, 6 Feet, Black",
+        "price": 11.99,
+        "rating": 3,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/61JISsq3KqL._AC_SL1500_.jpg"
+    },
+    {
+        "id":18,
+        "name" : "Seneo Wireless Charger",
+        "title":"Seneo Wireless Charger, 3 in 1 Wireless Charging Station ",
+        "price": 49.99,
+        "rating": 3,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/71bjdpbTYSL._AC_SL1280_.jpg"
+    },
+    {
+        "id":19,
+        "name" : "Timex Men's Sport Watch",
+        "title":"Timex Men's Sport Expedition Ranger Solar 43mm Leather Strap Watch",
+        "price": 64.99,
+        "rating": 3,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/717JORzTWdL._AC_SL1000_.jpg"
+    },
+    {
+        "id":20,
+        "name" : "Wireless Charger",
+        "title":"Wireless Charger,4 in 1 Wireless Charging Station ",
+        "price": 54.99,
+        "rating": 1,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/61A2VCeFHRL._AC_SL1500_.jpg"
     }
 ]
