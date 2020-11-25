@@ -11,8 +11,8 @@
     border-radius: 10px; 
     float: right;
     position: absolute; 
-    top: 7em;
-    bottom: 2em;
+    top: 5em;
+    bottom: 1em;
     right: 20px;
     text-align:justify; 
 }
@@ -40,7 +40,7 @@
     object-fit: contain;
     margin-bottom: 15px;
 }
-.products__rating {
+.products__rating, .reviewer__rating {
     display: flex;
 }
 .button__cart {
@@ -99,4 +99,27 @@
     margin: 10px 10px;
     width: 100%;
     padding: 10px 10px 12px 15px;
+}
+
+
+.reviewer__top {
+    display: flex;
+    flex-direction: row;
+}
+.reviewer__image > img {
+    width: 2em;
+    margin-right: 1em;
+}
+.reviewer__name {
+    margin-top: 5px;
+    font-size: 15px;
+}
+.review__title {
+    margin-left: 10px;
+    font-weight: 600;
+}
+.review__posted {
+    color: #757575;
+    font-size: 14px;
+    padding: 5px 0 0 0;
 }
