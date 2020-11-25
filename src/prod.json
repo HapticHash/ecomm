@@ -42,5 +42,53 @@
         "price": 29.99,
         "rating": 3,
         "image":"https://images-na.ssl-images-amazon.com/images/I/71Xi2OUyD5L._AC_SX425_.jpg"
+    },
+    {
+        "id":6,
+        "name" : "Smart speaker with Alexa",
+        "title":"All-new Echo Dot (4th Gen) | Smart speaker with Alexa | Charcoal",
+        "price": 39.99,
+        "rating": 8,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/71KJ6VCJlOL._AC_SL1000_.jpg"
+    },
+    {
+        "id":7,
+        "name" : "Amazon Smart Plug",
+        "title":"Amazon Smart Plug, works with Alexa",
+        "price": 34.99,
+        "rating": 6,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/51yy4dHf5VL._AC_SL1000_.jpg"
+    },
+    {
+        "id":8,
+        "name" : "Echo Plus (2nd gen)",
+        "title":"Echo Plus (2nd gen) – Premium sound with built-in smart home - Sandstone",
+        "price": 119.99,
+        "rating": 1,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/61vPv8HtsRL._AC_SL1000_.jpg"
+    },
+    {
+        "id":9,
+        "name" : "Echo Show 8",
+        "title":"Echo Show 8 – HD 8 inch smart display with Alexa",
+        "price": 84.99,
+        "rating": 3,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/61pvbctlAGL._AC_SL1000_.jpg"
+    },
+    {
+        "id":10,
+        "name" : "Ring Video Doorbell",
+        "title":"Ring Video Doorbell – 1080p HD video, improved motion detection, easy installation – Venetian Bronze (2020 release)",
+        "price": 39.99,
+        "rating": 3,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/611bAN%2B0zwL._SL1000_.jpg"
+    },
+    {
+        "id":11,
+        "name" : "Ring Smart Lighting",
+        "title":"Ring Smart Lighting – Floodlight, Wired, Outdoor Motion-Sensor Security Light, Black (Ring Bridge required)",
+        "price": 49.99,
+        "rating": 3,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/51bFlydoduL._SL1000_.jpg"
     }
 ]
