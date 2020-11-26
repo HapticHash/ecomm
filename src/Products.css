@@ -64,6 +64,9 @@
 .products__rating, .reviewer__rating {
     display: flex;
 }
+.products__rating__no {
+    margin-left: 5px;
+}
 .button__cart {
     margin: 0 auto;
     width: 15%;

@@ -7,7 +7,7 @@ import { useStateValue } from './StateProvider';
         let {id} = props.match.params
         const product = items.find(product => product.id === id)
         
-        let {name, title, price, image, rating, aboutItem1, aboutItem2, aboutItem3, aboutItem4, totalReviews} = items[id-1]
+        let {name, title, price, image, rating, itemDesc, totalReviews} = items[id-1]
         const [{}, dispatch] = useStateValue()
         const addToBasket = () => {
             dispatch({
@@ -40,6 +40,7 @@ import { useStateValue } from './StateProvider';
                             .map((_) => (
                                 <p>⭐</p>
                             ))}
+                        <span className="products__rating__no"> ({rating}/5) </span>
                     </div>
                     <p className="products__rating__total"> Total Review : {totalReviews}</p>
                 </div>
@@ -49,13 +50,16 @@ import { useStateValue } from './StateProvider';
                 </div>
                 <div className="products__description"> 
                     <p> <b> About this item </b></p>
-                    <ul>
-                        <li>{aboutItem1}</li>
-                        <li>{aboutItem2}</li>
-                        <li>{aboutItem3}</li>
-                        <li>{aboutItem4}</li>
-                        
-                    </ul>
+                   
+                    {items[id-1].About.map(list => ( 
+                        <div>
+                        <ul>
+                            <li>{list.itemDesc}</li>
+                         </ul>
+                        </div>
+                    ))}
+                   
+                    
                     <br/>
                     <p> <b> Customer Reviews </b></p>
                     

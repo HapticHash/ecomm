@@ -7,10 +7,21 @@
         "rating": 4,
         "totalReviews": 10,
         "image":"https://images-na.ssl-images-amazon.com/images/I/71IX75joWjL._AC_SX522_.jpg",
-        "aboutItem1": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint",
-        "aboutItem2": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas",
-        "aboutItem3": "This device may not include a US warranty as some manufacturers do not honor warranties for international items",
-        "aboutItem4": "Device may come with foreign charger however seller will provide a US travel socket separately",
+        
+        "About" : [
+            {
+                "itemDesc": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint"
+            },
+            {
+                "itemDesc": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas"
+            },
+            {
+                "itemDesc": "This device may not include a US warranty as some manufacturers do not honor warranties for international items"
+            }, 
+            {
+                "itemDesc": "Device may come with foreign charger however seller will provide a US travel socket separately"
+            }
+        ],
         
         "Reviews": [
             {
@@ -100,11 +111,22 @@
         "title":"USB C Hub 14in1 MacBook Pro Adapter 4K HDMI/VGA/ RJ45 Gigabit Ethernet/ 3.5mm Audio/ 100W PD/USB C Data Port/ 6 USB Ports/SD/TF Card Reader for MacBook/Pro/Air/ChromeBook/Samsung Galaxy and More",
         "price": 56.99,
         "rating": 3,
+        "totalReviews": 10,
         "image":"https://images-na.ssl-images-amazon.com/images/I/61XSU6Mo2AL._AC_SX679_.jpg",
-         "aboutItem1": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint",
-        "aboutItem2": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas",
-        "aboutItem3": "This device may not include a US warranty as some manufacturers do not honor warranties for international items",
-        "aboutItem4": "Device may come with foreign charger however seller will provide a US travel socket separately",
+        "About" : [
+            {
+                "itemDesc": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint"
+            },
+            {
+                "itemDesc": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas"
+            },
+            {
+                "itemDesc": "This device may not include a US warranty as some manufacturers do not honor warranties for international items"
+            }, 
+            {
+                "itemDesc": "Device may come with foreign charger however seller will provide a US travel socket separately"
+            }
+        ],
 
         "Reviews": [
             {
@@ -194,11 +216,22 @@
         "title":"Samsung Galaxy Buds Live - Bronze, SM-R180NZNAXAC",
         "price": 208.00,
         "rating": 4,
+        "totalReviews": 10,
         "image":"https://images-na.ssl-images-amazon.com/images/I/719Xfw823XL._AC_SX679_.jpg",
-        "aboutItem1": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint",
-        "aboutItem2": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas",
-        "aboutItem3": "This device may not include a US warranty as some manufacturers do not honor warranties for international items",
-        "aboutItem4": "Device may come with foreign charger however seller will provide a US travel socket separately",
+        "About" : [
+            {
+                "itemDesc": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint"
+            },
+            {
+                "itemDesc": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas"
+            },
+            {
+                "itemDesc": "This device may not include a US warranty as some manufacturers do not honor warranties for international items"
+            }, 
+            {
+                "itemDesc": "Device may come with foreign charger however seller will provide a US travel socket separately"
+            }
+        ],
         
         "Reviews": [
             {
@@ -287,11 +320,22 @@
         "title":"AmazonBasics 5 Cup Coffee Maker with Glass Carafe - Black",
         "price":  28.99,
         "rating": 4,
+        "totalReviews": 10,
         "image":"https://images-na.ssl-images-amazon.com/images/I/81BwWF7hi%2BL._AC_SY879_.jpg",
-        "aboutItem1": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint",
-        "aboutItem2": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas",
-        "aboutItem3": "This device may not include a US warranty as some manufacturers do not honor warranties for international items",
-        "aboutItem4": "Device may come with foreign charger however seller will provide a US travel socket separately",
+        "About" : [
+            {
+                "itemDesc": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint"
+            },
+            {
+                "itemDesc": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas"
+            },
+            {
+                "itemDesc": "This device may not include a US warranty as some manufacturers do not honor warranties for international items"
+            }, 
+            {
+                "itemDesc": "Device may come with foreign charger however seller will provide a US travel socket separately"
+            }
+        ],
         
         "Reviews": [
             {
@@ -380,8 +424,22 @@
         "title":"Fullmosa Compatible Apple Watch Band 38mm 40mm 42mm 44mm for iWatch SE & Series 6 5 4 3 2 1",
         "price": 29.99,
         "rating": 3,
+        "totalReviews": 10,
         "image":"https://images-na.ssl-images-amazon.com/images/I/71Xi2OUyD5L._AC_SX425_.jpg",
-
+        "About" : [
+            {
+                "itemDesc": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint"
+            },
+            {
+                "itemDesc": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas"
+            },
+            {
+                "itemDesc": "This device may not include a US warranty as some manufacturers do not honor warranties for international items"
+            }, 
+            {
+                "itemDesc": "Device may come with foreign charger however seller will provide a US travel socket separately"
+            }
+        ],
         "Reviews": [
             {
                 "ReviewerName": "Stew Ray",
@@ -470,8 +528,22 @@
         "title":"All-new Echo Dot (4th Gen) | Smart speaker with Alexa | Charcoal",
         "price": 39.99,
         "rating": 4,
+        "totalReviews": 10,
         "image":"https://images-na.ssl-images-amazon.com/images/I/71KJ6VCJlOL._AC_SL1000_.jpg",
-
+        "About" : [
+            {
+                "itemDesc": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint"
+            },
+            {
+                "itemDesc": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas"
+            },
+            {
+                "itemDesc": "This device may not include a US warranty as some manufacturers do not honor warranties for international items"
+            }, 
+            {
+                "itemDesc": "Device may come with foreign charger however seller will provide a US travel socket separately"
+            }
+        ],
         "Reviews": [
             {
                 "ReviewerName": "Stew Ray",
@@ -560,8 +632,22 @@
         "title":"Amazon Smart Plug, works with Alexa",
         "price": 34.99,
         "rating": 5,
+        "totalReviews": 10,
         "image":"https://images-na.ssl-images-amazon.com/images/I/51yy4dHf5VL._AC_SL1000_.jpg",
-
+        "About" : [
+            {
+                "itemDesc": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint"
+            },
+            {
+                "itemDesc": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas"
+            },
+            {
+                "itemDesc": "This device may not include a US warranty as some manufacturers do not honor warranties for international items"
+            }, 
+            {
+                "itemDesc": "Device may come with foreign charger however seller will provide a US travel socket separately"
+            }
+        ],
         "Reviews": [
             {
                 "ReviewerName": "Stew Ray",
@@ -650,8 +736,22 @@
         "title":"Echo Plus (2nd gen) – Premium sound with built-in smart home - Sandstone",
         "price": 119.99,
         "rating": 1,
+        "totalReviews": 10,
         "image":"https://images-na.ssl-images-amazon.com/images/I/61vPv8HtsRL._AC_SL1000_.jpg",
-
+        "About" : [
+            {
+                "itemDesc": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint"
+            },
+            {
+                "itemDesc": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas"
+            },
+            {
+                "itemDesc": "This device may not include a US warranty as some manufacturers do not honor warranties for international items"
+            }, 
+            {
+                "itemDesc": "Device may come with foreign charger however seller will provide a US travel socket separately"
+            }
+        ],
         "Reviews": [
             {
                 "ReviewerName": "Stew Ray",
@@ -740,8 +840,22 @@
         "title":"Echo Show 8 – HD 8 inch smart display with Alexa",
         "price": 84.99,
         "rating": 3,
+        "totalReviews": 10,
         "image":"https://images-na.ssl-images-amazon.com/images/I/61pvbctlAGL._AC_SL1000_.jpg",
-
+        "About" : [
+            {
+                "itemDesc": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint"
+            },
+            {
+                "itemDesc": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas"
+            },
+            {
+                "itemDesc": "This device may not include a US warranty as some manufacturers do not honor warranties for international items"
+            }, 
+            {
+                "itemDesc": "Device may come with foreign charger however seller will provide a US travel socket separately"
+            }
+        ],
         "Reviews": [
             {
                 "ReviewerName": "Stew Ray",
@@ -830,8 +944,22 @@
         "title":"Ring Video Doorbell – 1080p HD video, improved motion detection, easy installation – Venetian Bronze (2020 release)",
         "price": 39.99,
         "rating": 3,
+        "totalReviews": 10,
         "image":"https://images-na.ssl-images-amazon.com/images/I/611bAN%2B0zwL._SL1000_.jpg",
-
+        "About" : [
+            {
+                "itemDesc": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint"
+            },
+            {
+                "itemDesc": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas"
+            },
+            {
+                "itemDesc": "This device may not include a US warranty as some manufacturers do not honor warranties for international items"
+            }, 
+            {
+                "itemDesc": "Device may come with foreign charger however seller will provide a US travel socket separately"
+            }
+        ],
         "Reviews": [
             {
                 "ReviewerName": "Stew Ray",
@@ -920,8 +1048,22 @@
         "title":"Ring Smart Lighting – Floodlight, Wired, Outdoor Motion-Sensor Security Light, Black (Ring Bridge required)",
         "price": 49.99,
         "rating": 3,
+        "totalReviews": 10,
         "image":"https://images-na.ssl-images-amazon.com/images/I/51bFlydoduL._SL1000_.jpg",
-
+        "About" : [
+            {
+                "itemDesc": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint"
+            },
+            {
+                "itemDesc": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas"
+            },
+            {
+                "itemDesc": "This device may not include a US warranty as some manufacturers do not honor warranties for international items"
+            }, 
+            {
+                "itemDesc": "Device may come with foreign charger however seller will provide a US travel socket separately"
+            }
+        ],
         "Reviews": [
             {
                 "ReviewerName": "Stew Ray",
@@ -1010,8 +1152,22 @@
         "title":"Nespresso Pixie Coffee Machine by Breville - (BEC430TTN1BUC1), Titan",
         "price": 185.99,
         "rating": 3,
+        "totalReviews": 10,
         "image":"https://images-na.ssl-images-amazon.com/images/I/61NUqSDpwiL._AC_SL1500_.jpg",
-
+        "About" : [
+            {
+                "itemDesc": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint"
+            },
+            {
+                "itemDesc": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas"
+            },
+            {
+                "itemDesc": "This device may not include a US warranty as some manufacturers do not honor warranties for international items"
+            }, 
+            {
+                "itemDesc": "Device may come with foreign charger however seller will provide a US travel socket separately"
+            }
+        ],
         "Reviews": [
             {
                 "ReviewerName": "Stew Ray",
@@ -1100,8 +1256,22 @@
         "title":"Nespresso Variety Pack for OriginalLine, 50 Capsules",
         "price": 59.99,
         "rating": 3,
+        "totalReviews": 10,
         "image":"https://images-na.ssl-images-amazon.com/images/I/71S41HVtXUL._AC_SL1500_.jpg",
-
+        "About" : [
+            {
+                "itemDesc": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint"
+            },
+            {
+                "itemDesc": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas"
+            },
+            {
+                "itemDesc": "This device may not include a US warranty as some manufacturers do not honor warranties for international items"
+            }, 
+            {
+                "itemDesc": "Device may come with foreign charger however seller will provide a US travel socket separately"
+            }
+        ],
         "Reviews": [
             {
                 "ReviewerName": "Stew Ray",
@@ -1190,8 +1360,22 @@
         "title":"AmazonBasics Nespresso Coffee Pod Storage Drawer Holder, 50 Capsule Capacity",
         "price": 23.99,
         "rating": 4,
+        "totalReviews": 10,
         "image":"https://images-na.ssl-images-amazon.com/images/I/81wa%2B88fGWL._AC_SL1500_.jpg",
-
+        "About" : [
+            {
+                "itemDesc": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint"
+            },
+            {
+                "itemDesc": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas"
+            },
+            {
+                "itemDesc": "This device may not include a US warranty as some manufacturers do not honor warranties for international items"
+            }, 
+            {
+                "itemDesc": "Device may come with foreign charger however seller will provide a US travel socket separately"
+            }
+        ],
         "Reviews": [
             {
                 "ReviewerName": "Stew Ray",
@@ -1280,8 +1464,22 @@
         "title":"Moscow Mule Copper Mugs Gift Set - Set of 4",
         "price": 49.99,
         "rating": 5,
+        "totalReviews": 10,
         "image":"https://images-na.ssl-images-amazon.com/images/I/819J26zHObL._AC_SL1500_.jpg",
-
+        "About" : [
+            {
+                "itemDesc": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint"
+            },
+            {
+                "itemDesc": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas"
+            },
+            {
+                "itemDesc": "This device may not include a US warranty as some manufacturers do not honor warranties for international items"
+            }, 
+            {
+                "itemDesc": "Device may come with foreign charger however seller will provide a US travel socket separately"
+            }
+        ],
         "Reviews": [
             {
                 "ReviewerName": "Stew Ray",
@@ -1370,8 +1568,22 @@
         "title":"Samsung Monitor T55 32 Inch |32 inch Curved Monitor (LC32T550FDNXZA)",
         "price": 218.99,
         "rating": 2,
+        "totalReviews": 10,
         "image":"https://images-na.ssl-images-amazon.com/images/I/71j-LEOPs-L._AC_SL1500_.jpg",
-
+        "About" : [
+            {
+                "itemDesc": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint"
+            },
+            {
+                "itemDesc": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas"
+            },
+            {
+                "itemDesc": "This device may not include a US warranty as some manufacturers do not honor warranties for international items"
+            }, 
+            {
+                "itemDesc": "Device may come with foreign charger however seller will provide a US travel socket separately"
+            }
+        ],
         "Reviews": [
             {
                 "ReviewerName": "Stew Ray",
@@ -1460,8 +1672,22 @@
         "title":"Rankie DisplayPort to DisplayPort Cable, DP to DP, 4K Resolution, 6 Feet, Black",
         "price": 11.99,
         "rating": 3,
+        "totalReviews": 10,
         "image":"https://images-na.ssl-images-amazon.com/images/I/61JISsq3KqL._AC_SL1500_.jpg",
-
+        "About" : [
+            {
+                "itemDesc": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint"
+            },
+            {
+                "itemDesc": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas"
+            },
+            {
+                "itemDesc": "This device may not include a US warranty as some manufacturers do not honor warranties for international items"
+            }, 
+            {
+                "itemDesc": "Device may come with foreign charger however seller will provide a US travel socket separately"
+            }
+        ],
         "Reviews": [
             {
                 "ReviewerName": "Stew Ray",
@@ -1550,8 +1776,22 @@
         "title":"Seneo Wireless Charger, 3 in 1 Wireless Charging Station ",
         "price": 49.99,
         "rating": 3,
+        "totalReviews": 10,
         "image":"https://images-na.ssl-images-amazon.com/images/I/71bjdpbTYSL._AC_SL1280_.jpg",
-
+        "About" : [
+            {
+                "itemDesc": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint"
+            },
+            {
+                "itemDesc": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas"
+            },
+            {
+                "itemDesc": "This device may not include a US warranty as some manufacturers do not honor warranties for international items"
+            }, 
+            {
+                "itemDesc": "Device may come with foreign charger however seller will provide a US travel socket separately"
+            }
+        ],
         "Reviews": [
             {
                 "ReviewerName": "Stew Ray",
@@ -1640,8 +1880,22 @@
         "title":"Timex Men's Sport Expedition Ranger Solar 43mm Leather Strap Watch",
         "price": 64.99,
         "rating": 3,
+        "totalReviews": 10,
         "image":"https://images-na.ssl-images-amazon.com/images/I/717JORzTWdL._AC_SL1000_.jpg",
-
+        "About" : [
+            {
+                "itemDesc": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint"
+            },
+            {
+                "itemDesc": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas"
+            },
+            {
+                "itemDesc": "This device may not include a US warranty as some manufacturers do not honor warranties for international items"
+            }, 
+            {
+                "itemDesc": "Device may come with foreign charger however seller will provide a US travel socket separately"
+            }
+        ],
         "Reviews": [
             {
                 "ReviewerName": "Stew Ray",
@@ -1730,8 +1984,22 @@
         "title":"Wireless Charger,4 in 1 Wireless Charging Station ",
         "price": 54.99,
         "rating": 2,
+        "totalReviews": 10,
         "image":"https://images-na.ssl-images-amazon.com/images/I/61A2VCeFHRL._AC_SL1500_.jpg",
-
+        "About" : [
+            {
+                "itemDesc": "Unlocked cell phones are compatible with GSM carrier such as AT&T and T-Mobile, but are not compatible with CDMA carriers such as Verizon and Sprint"
+            },
+            {
+                "itemDesc": "Please check if your GSM cellular carrier supports the bands for this model before purchasing, LTE may not be available in all areas"
+            },
+            {
+                "itemDesc": "This device may not include a US warranty as some manufacturers do not honor warranties for international items"
+            }, 
+            {
+                "itemDesc": "Device may come with foreign charger however seller will provide a US travel socket separately"
+            }
+        ],
         "Reviews": [
             {
                 "ReviewerName": "Stew Ray",
