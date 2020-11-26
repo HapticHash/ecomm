@@ -2,30 +2,32 @@ import React from 'react'
 import items from './prod.json';
 import './Products.css'
 import { useStateValue } from './StateProvider';
+import { Link, Switch, Route } from 'react-router-dom';
 
-    const Products = (props) => {
-        let {id} = props.match.params
-        const product = items.find(product => product.id === id)
-        
-        let {name, title, price, image, rating, itemDesc, totalReviews} = items[id-1]
-        const [{}, dispatch] = useStateValue()
-        const addToBasket = () => {
-            dispatch({
-                type: 'ADD_TO_BASKET',
-                item: {
-                    id: id,
-                    title: title,
-                    image: image,
-                    price: price,
-                    rating: rating
-                }
-            })
-        };
+
+const Products = (props) => {
+    let { id } = props.match.params
+    const product = items.find(product => product.id === id)
+
+    let { name, title, price, image, rating, itemDesc, totalReviews } = items[id - 1]
+    const [{}, dispatch] = useStateValue()
+    const addToBasket = () => {
+        dispatch({
+            type: 'ADD_TO_BASKET',
+            item: {
+                id: id,
+                title: title,
+                image: image,
+                price: price,
+                rating: rating
+            }
+        })
+    };
 
 
     return (
 
-        
+
         <div className="products">
             <div className="scrollable">
                 <div className="products__info">
@@ -59,7 +61,15 @@ import { useStateValue } from './StateProvider';
                         </div>
                     ))}
                    
-                    
+                   <br/>
+                    <div className="product_review">
+                        <p><strong>Review this product</strong></p>
+                        <p>Share your thoughts with other customers</p>
+                        <Link key={id} to={`/create-review/${id}`}>
+                            <button className="btn_review">Write a customer review</button>
+                        </Link>
+                    </div>
+
                     <br/>
                     <p> <b> Customer Reviews </b></p>
                     
@@ -92,14 +102,6 @@ import { useStateValue } from './StateProvider';
                     ))}
                     
                 </div>
-
-                  {/* <div className="product_review">
-                    <p><strong>Review this product</strong></p>
-                    <p>Share your thoughts with other customers</p>
-                    <Link key={id} to={`/create-review/${id}`}>
-                        <button className="btn_review">Write a customer review</button>
-                    </Link>
-                </div> */}
 
             </div>
         </div>
