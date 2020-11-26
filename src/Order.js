@@ -1,10 +1,12 @@
 import React from 'react'
 import './Order.css'
 import CheckoutProduct from './CheckoutProduct'
+import { useHistory } from 'react-router-dom'
 import moment from 'moment'
 import CurrencyFormat from 'react-currency-format'
 
 function Order({ order }) {
+    const history = useHistory()
     return (
         <div className="order">
             <h2>Order</h2>
@@ -12,15 +14,20 @@ function Order({ order }) {
             <p className="order__id">
                 <small><b>Order ID: </b> {order.id}</small>
             </p>
+            {console.log(order.data)}
             {order.data.basket?.map(item => (
-                <CheckoutProduct
-                    id = {item.id}
-                    title = {item.title}
-                    image = {item.image}
-                    price = {item.price}
-                    rating = {item.rating}
-                    hideButton
-                />
+                <div>
+                    <div className="order__review"> <button onClick={() => history.push('/newReview')}>Upload Review</button> </div>
+                    <CheckoutProduct
+                        id = {item.id}
+                        title = {item.title}
+                        image = {item.image}
+                        price = {item.price}
+                        rating = {item.rating}
+                        hideButton
+                    />
+                    
+                </div>
             ))}
             <CurrencyFormat
                 renderText={(value) => (

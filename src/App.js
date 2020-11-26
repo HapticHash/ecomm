@@ -7,14 +7,14 @@ import Home from './Home'
 import Orders from './Orders'
 import Login from './Login'
 import Checkout from './Checkout'
-import NewReview from './NewReview'
 import { auth } from './firebase'
 import Payment from './Payment'
-import ProductDetail from './ProductDetail'
+import NewReview from './NewReview'
 import { loadStripe } from "@stripe/stripe-js"
 import { Elements } from "@stripe/react-stripe-js"
 import ProductList from './ProductList';
 import Products from './Products';
+import NewRev from './NewRev';
 
 const promise = loadStripe(
   "pk_test_51HnBe1AfPjopGlx4q8NiU2JPXIMliwXMwo3vmCm1f8QCesvHOairxAuZ8eCIt7CpvLNEBxYagghUsQNQDEvIE8mM00OurNR6sQ"
@@ -72,6 +72,10 @@ function App() {
           <Route path="/orders">
             <Header/>
             <Orders />
+          </Route>
+          <Route path="/newReview">
+            <Header/>
+            <NewRev />
           </Route>
           <Route path="/login">
             <Login />

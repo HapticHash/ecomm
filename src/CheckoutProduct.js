@@ -21,7 +21,7 @@ function CheckoutProduct({ id, title, price, rating, image, hideButton }) {
                 <p className="checkoutProduct__title">{title}</p>
             
                 <p className="checkoutProduct__price">
-                    <small>CDN $ </small>
+                    <small>CAD $ </small>
                     <strong>{price}</strong>
                 </p>
                 <div className="checkoutProduct__rating">

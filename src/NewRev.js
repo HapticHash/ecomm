@@ -2,12 +2,13 @@ import React, { useState, useEffect } from 'react'
 import './Orders.css'
 import { db } from './firebase'
 import { useStateValue } from './StateProvider'
-import Order from './Order'
+import NewReview from './NewReview'
+import './NewReview.css'
 
-function Orders() {
+function NewRev() {
 
     const [{ basket, user }, dispatch ] = useStateValue();
-    const [orders, setOrders] = useState([])
+    const [reviews, setReview] = useState([])
     
     useEffect(() => {
         if(user) {
@@ -17,28 +18,27 @@ function Orders() {
             .collection('orders')
             .orderBy('created', 'desc')
             .onSnapshot(snapshot => {
-                setOrders(snapshot.docs.map(doc => ({
+                setReview(snapshot.docs.map(doc => ({
                     id: doc.id,
                     data: doc.data()
                 })))
             })
         } else {
-            setOrders([])
+            setReview([])
         }
     }, [user])
 
     return (
         <div className='orders'>
-            <h1>Your Orders</h1>
+            <h1>Your Reviews</h1>
 
-            <div className='orders__order'>
-                {orders?.map(order => (
-                    <Order order={order} />
+            <div className='orders__review'>
+                {reviews?.map(order => (
+                    <NewReview order={order} hide />
                 ))}
                 
             </div>
         </div>
     )
 }
-
-export default Orders
+export default NewRev
