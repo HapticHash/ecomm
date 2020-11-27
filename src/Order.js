@@ -17,7 +17,8 @@ function Order({ order }) {
             {console.log(order.data)}
             {order.data.basket?.map(item => (
                 <div>
-                    <div className="order__review"> <button onClick={() => history.push('/newReview')}>Upload Review</button> </div>
+                    
+                    <div className="order__review"> <button onClick={() => history.push('/newReview/')}>Upload Review</button> </div>
                     <CheckoutProduct
                         id = {item.id}
                         title = {item.title}

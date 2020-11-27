@@ -103,7 +103,10 @@
     margin: 10px 0;
 }
 
-
+.btn_review {
+    padding: 10px;
+    width: 15em;
+}
 
 .product-list>h2 {
     margin: 10px;
@@ -141,15 +144,15 @@
     width: 2em;
     margin-right: 1em;
 }
-.reviewer__name {
+.reviewer__name, .reviewer__name__me {
     margin-top: 5px;
     font-size: 15px;
 }
-.review__title {
+.review__title, .review__title__me {
     margin-left: 10px;
     font-weight: 600;
 }
-.review__posted {
+.review__posted, .review__posted__me {
     color: #757575;
     font-size: 14px;
     padding: 5px 0 0 0;
@@ -157,4 +160,8 @@
 
 .product__review {
     margin: 10px 0 20px;
+}
+
+.review__posted__me, .reviewer__name__me, .review__title__me, .product__review__desc__me {
+    color: #9c27b0;
 }

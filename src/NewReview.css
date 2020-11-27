@@ -6,12 +6,15 @@
     align-items: center;
     padding: 1em;
     border-radius: 1em;
-    margin: 3em auto;
+    margin: 3em auto 5em;
+    overflow: hidden;
 }
 
 .review__container {
     display: flex;
     flex-direction: column;
+    overflow: hidden;
+
 }
 
 .review__container>h2 {
@@ -54,5 +57,24 @@
 }
 
 .orders__review {
-    display: hide;
+    /* display: none; */
+}
+.reviewItem {
+    display: flex;
+    margin: 10px 10px 20px;
+}
+.reviewItem__desc {
+    padding: 15px 10px;
+    
+}
+.reviewItem > img {
+    width: 5em;
+}
+
+.reviews__list {
+    padding: 20px 80px;
+}
+
+.review:nth-of-type(1) {
+    display:none;
 }

@@ -29,14 +29,15 @@ function NewRev() {
     }, [user])
 
     return (
-        <div className='orders'>
-            <h1>Your Reviews</h1>
-
+        <div className='reviews__list'>
             <div className='orders__review'>
-                {reviews?.map(order => (
-                    <NewReview order={order} hide />
-                ))}
                 
+                {/* {console.log(reviews[0].data.basket[1].image)}
+                <NewReview order={reviews[0]} /> */}
+                
+                {reviews?.map(order => (
+                    <NewReview order={order} />
+                ))}                
             </div>
         </div>
     )
